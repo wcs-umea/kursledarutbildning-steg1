@@ -4,11 +4,11 @@ project:
 
 # several branches can be specified here
 branches:
-  - branch: "release-0000"     # change this to the release branch
-    output-dir: "0000"         # change this to year and month of the course instance
+  - branch: "release-2510"     # change this to the release branch
+    output-dir: "2510"         # change this to year and month of the course instance
 
 website:
-  title: "Course Title"
+  title: "Kursledarutbildning Steg 1"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
@@ -21,9 +21,9 @@ website:
       - module1.qmd
       - module2.qmd
   navbar:
-    background: "#A7C947"
-    logo: "img/SciLifeLab_Logotype_NEG.png"
-  favicon: "img/SciLifeLab_Logotype_NEG.png"
+    background: "#800080"
+    logo: "img/wcsumea-logo.png"
+  favicon: "img/wcsumea-logo.png"
 
 
 format:
