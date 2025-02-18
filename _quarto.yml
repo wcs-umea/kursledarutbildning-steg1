@@ -17,7 +17,9 @@ website:
     contents: 
       - index.qmd 
       - schedule.qmd
-      - module1.qmd
+      - course_material.qmd
+      - step1_syllabus.qmd
+      - links.qmd
   navbar:
     background: "#800080"
     logo: "img/wcsumea-logo.png"

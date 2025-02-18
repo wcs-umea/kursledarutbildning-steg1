@@ -35,8 +35,8 @@ Efter avslutad utbildning ska eleven kunna:
 - Använda föreslagen metodik för att lära ut grundturerna (enligt kursplan steg 1)
 - Använda föreslagen metodik för att lära ut de tekniska komponenter (enligt kursplan steg 1)
 - Skapa kurser och miljöer som är:
-trygga, inkluderande (respekt och samtycke)
-lärande (feedback och tolerans för variationer)
+    - trygga, inkluderande (respekt och samtycke)
+    - lärande (feedback och tolerans för variationer)
 - Välja passande lärandeaktiviteter för olika situationer
 - Förstå de grundläggande pedagogiska principerna
 - Genomföra och anpassa en kurs med utgångspunkt från kurskompendiet
