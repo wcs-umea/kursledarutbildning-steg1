@@ -1,59 +1,49 @@
 ---
-title: "Steg 1"
+title: "Information"
 date: today
 ---
 
 ::: {.callout-warning icon=false}
 
-## About
+## Om
 
-**Organizers:** 	                SciLifeLab  
-**Date:**	   	                    Month, date, year  
-**Location:**		 			    SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 	X hp  
-**Enrollment opens:**				Month day, year  
-**Enrollment closes:**				Month day, year     
-**Course fee:**				        XX   
+**Organisatör:** 	                West Coast Swing Umeå  
+**Datum:**	   	                    18 - 19 oktober  
+**Var:**		 			        Umeå    
 
 :::
 
-Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+## Kursbeskrivning
 
-Course contact: john.doe@scilifelab.se
+Del av [Kursledarprogrammet i WCS 2024-2025](https://wcs-umea.github.io/kursledarprogram/2024-2025/).
 
-## Course description
+## Kursmål
+Efter avslutad kurs ska eleven ha de kunskaper och verktyg för att kunna planera och hålla:
 
-Short description of the course
-
-## Learning Objectives and Learning Outcomes
-#### Learning Objectives
-
-- To get acquainted with...
-- To be able to...
-
-#### Learning Outcomes
-
-By the end of this course, learners will be able to:
-
-- Name...
-- Describe...
-
-## Target audience and course prerequisites
-
-**Target audience:** XXX    
-**Course prerequisites:** none   
-**Level:** beginner/intermediate  
+- Prova-på lektioner
+- Nybörjarkurser Steg 1
 
 
-## Forms of instruction and examination  
+## Lärandemål
 
-**Forms of instruction:** In-person, digital communications  
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
-**Language:** English    
-**Examination:** Active participation in all sessions and group assignments.   
+Efter avslutad utbildning ska eleven kunna:
+
+- Demonstrera grundturerna, enligt kursplan steg 1 i takt utan att vara i vägen eller förstöra för sin danspartner
+- Namnge och klassificera grundturerna (pushes, passes och whips)
+- Använda följande tekniska komponenter i sin dans: connection (stretch & compression), lead & follow, frame, ankare
+- Utföra dansen både som förare och följare enligt ovanstående kriterier
+- Använda föreslagen metodik för att lära ut grundturerna (enligt kursplan steg 1)
+- Använda föreslagen metodik för att lära ut de tekniska komponenter (enligt kursplan steg 1)
+- Skapa kurser och miljöer som är:
+trygga, inkluderande (respekt och samtycke)
+lärande (feedback och tolerans för variationer)
+- Välja passande lärandeaktiviteter för olika situationer
+- Förstå de grundläggande pedagogiska principerna
+- Genomföra och anpassa en kurs med utgångspunkt från kurskompendiet
+- Välja passande musik till kurs och socialdans
 
 
 
-## Additional notes  
 
-- Other useful information  
+
+## Examination och certifiering  

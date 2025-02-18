@@ -6,6 +6,10 @@
     padding-left: 30px;
 }
 
+.navbar-logo {
+    max-height: 39px;
+}
+
 h1 {
     font-size: 40px; 
     font-weight: 700; 
