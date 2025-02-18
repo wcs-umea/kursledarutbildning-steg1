@@ -1,6 +1,5 @@
 ---
-title: "Course Syllabus"
-author: "John Doe"
+title: "Steg 1"
 date: today
 ---
 
