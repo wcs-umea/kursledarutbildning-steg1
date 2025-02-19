@@ -19,6 +19,7 @@ website:
       - schedule.qmd
       - course_material.qmd
       - step1_syllabus.qmd
+      - frameworks.qmd
       - links.qmd
   navbar:
     background: "#800080"
