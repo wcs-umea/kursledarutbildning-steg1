@@ -32,6 +32,10 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+  pdf: 
+    documentclass: hitec
+    number-sections: true
+    toc: true
 
 execute:
   freeze: auto

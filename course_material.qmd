@@ -3,6 +3,25 @@ title: "Kurskompendium"
 date: today
 ---
 
-Länk till kurskompendium
+## Introduktion
 
-<iframe src="material/test.html" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="material/introduction.html" width="100%" height="300px" style="border: none;"></iframe>
+
+
+## Turer och tekniker
+
+<iframe src="material/patterns.html" width="100%" height="300px" style="border: none;"></iframe>
+
+
+## Ramverk
+
+<iframe src="material/frameworks.html" width="100%" height="300px" style="border: none;"></iframe>
+
+
+## Skapa trygga miljöer
+
+<iframe src="material/safe_environment.html" width="100%" height="300px" style="border: none;"></iframe>
+
+## Musik
+
+<iframe src="material/music.html" width="100%" height="300px" style="border: none;"></iframe>

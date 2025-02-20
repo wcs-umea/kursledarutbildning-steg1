@@ -1,6 +1,5 @@
 ---
-title: "Habits"
-author: "John Doe"
+title: "Använda ramverk i din undervisning"
 format: revealjs
 ---
 

@@ -1,11 +1,103 @@
 ---
 title: "Kursplanering Steg 1"
-date: today
+format:
+  html: 
+    toc: true
+    theme: cosmo
+  pdf: default
 ---
 
-# Kurslängd
+
+## Kurslängd
 
 Denna kursplanering är anpassad för en veckokurs som innehåller 8 tillfällen, en timme vardera. Om ni planerar en kurs som är kortare eller längre kan innehållet behöva ändras.
 
+[Ladda ner som PDF](step1_syllabus.pdf)
 
-Länk till kursplanering för en Steg 1 kurs.
+## Mål
+
+Målet med en nybörjarkurs är att eleverna ska ha roligt, och vilja fortsätta dansa.
+
+## Lärandemål
+
+## Turer
+
+Följande turer passar att lära ut på en Nybörjarkurs. Beroende på antal gånger, samt hur gruppen är, kan detta behöva justeras något.
+
+| Left side      | Middle     | Right side |
+|----------------|------------|------------|
+| Left side pass | Sugar push | Under arm  |
+| Left side turn | Sugar tuck | Whip       |
+| Free spin      |            |            |
+| Start step     |            |            |
+
+
+
+## Kursplanering
+
+### Tillfälle 1
+
+- Gå gå trippelsteg
+- Handfattning och kroppsförning (väldigt simplifierat)
+- Left side pass
+- Under arm
+
+### Tillfälle 2
+
+- Repetition (20 min)
+- Sugar push
+- Musikalitet i Under arm (följaren gör en enkel stegkombination och kan förlänga turen på 3&4)
+
+### Tillfälle 3
+
+- Repetition (20 min)
+- Enkel snurrteknik
+- Left side turn
+
+### Tillfälle 4
+
+- Repetition (20 min)
+- Sugar tuck
+- Följarstyling i tuck (förlänga 5&6)
+
+### Tillfälle 5
+
+- Repetition (20 min)
+- Starter step
+- Grundturer in och ut ur sluten position
+
+### Tillfälle 6
+
+- Repetition (20 min)
+- Stretch and ankare
+- Whip
+
+### Tillfälle 7
+
+- Repetition (20 min)
+- Handbyten och grundturer i olika handfattningar
+- Free spin
+
+### Tillfälle 8
+
+- Repetition av turer, antingen alla turer individuellt eller genom en slinga
+
+### Slinga av alla turer
+
+Nedan följer en variant av en slinga på 2x32 slag, som kan varieras utefter behov.
+
+| Takt  | Tur     | Kommentar |
+|-------|---------|-----------|
+| 1-4   | Starter step |   |
+| 5-10  | Left side pass |     |
+| 11-16 | Under arm | Lägg gärna in följarstylingen på 3&4 |
+| 17-22 | Sugar push | Miniphrase change, möjlighet till styling |
+| 23-28 | Left side turn | |
+| 29-32 | Start av Tuck turn | Phrase change kommer på 5an |
+| 1-6   | Fortsätt Tuck turn | Förläng turen med 4 slag, följarstyling |
+| 7-12  | Free spin | |
+| 13-20 | Whip  | Miniphrase change, lägg eventuellt in en slide på 5an |
+| 21-26 | Left side pass in i sluten | |
+| 27-32 | Left side pass ut ur sluten | |
+| Eventuellt ta nästa phrase change | |
+
