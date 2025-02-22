@@ -3,10 +3,12 @@ title: "Hur skapar vi säkra och inkluderande miljöer"
 format: revealjs
 ---
 
-## Getting up
+## Säker miljö
 
-- Turn off alarm
-- Get out of bed
+- Din roll som kursledare
+- Inte säga att någon gör fel 
+- Positiv feedback
+- Lyssna på feedback
 
 ## Going to sleep
 

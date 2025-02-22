@@ -5,21 +5,30 @@ date: today
 
 <br>
 
-##### Lördag den 18 oktober
+#### **Lördag den 18 oktober**
 
-| Tid  |      |
-|------|------|
-| 09:00 - 10:15 | [Module 1](module1.qmd) |
-| 10:15 - 10:45 | Coffee break |
-| 10:45 - 12:00 | [Module 2](#) |
-| 12:00 - 13:00 | Lunch |
+| Tid           |      |
+|---------------|------|
+| 11:00 - 11:15 | Introduktion till dagen |
+| 11:15 - 11:45 | Teori: Turer och Tekniker |
+| 11:45 - 13:00 | Genomgång: Turer och vanliga fel
+| 13:00 - 14:00 | Lunch |
+| 14:00 - 16:00 | Genomgång: Turer och vanliga fel |
+
 : {tbl-colwidths="[25,75]"} 
 
 <br/>
      
-##### Söndag den 19 oktober  
+#### **Söndag den 19 oktober**  
 
-| Tid  |      |
-|------|------|
-| 09:00 - 12:00 | Discussion session |
+| Tid           |      |
+|---------------|------|
+| 10:00 - 11:00 | Teori: Pedagogik och ramverk |
+| 11:00 - 12:00 | Övning: Testa ramverk |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 13:30 | Teori: Trygga miljöer |
+| 13:30 - 14:00 | Teori: Musik |
+| 14:00 - 16:00 | Övning: Planera och håll en lektion |
+
+
 : {tbl-colwidths="[25,75]"} 

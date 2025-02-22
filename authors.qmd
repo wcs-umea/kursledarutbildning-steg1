@@ -1,0 +1,34 @@
+---
+title: "Licens"
+---
+
+## Licens
+
+Här finns allt material för programmet sparat. Materialet är skapat under CC-BY-SA, vilket betyder att det får fritt användas, delas och bearbetas, så länge originalförfattarna anges och bearbetningar sprids under samma licens.
+
+## Personer som bidragit till materialet
+
+Följande personer har bidragit till skapandet av detta material, antingen som författare eller har bidragit med värdefull input:
+
+- Nina Norgren
+- Chris Blöcker
+- Susanne Karlsson
+- Leif Carlsson
+- Joachim Sköld
+- Daniel Berglund
+- Andreas Espeborn
+- Jens Wallström
+
+Materialet har delvis utvecklats med stöd av Svenska Danssportförbundet.
+
+## Attribution
+
+Vid användade av materialet, inkludera följande (och om ändringar gjorts):
+
+:::{.callout-note icon=false}
+
+#
+
+Detta verk, ursprungligen skapat av Norgren, Blöcker, Karlsson, Carlsson, Sköld, Berglund, Espeborn och Wallström, är licensierat under CC BY-SA. Ändringar har gjorts.
+
+:::

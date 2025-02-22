@@ -19,22 +19,21 @@ website:
       - schedule.qmd
       - course_material.qmd
       - step1_syllabus.qmd
+      - try-out.qmd
       - frameworks.qmd
       - links.qmd
+      - authors.qmd
   navbar:
     background: "#800080"
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
+  body-footer: footer.html
 
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-  pdf: 
-    documentclass: hitec
-    number-sections: true
     toc: true
 
 execute:

@@ -1,0 +1,49 @@
+---
+title: "Planering Prova-På"
+format:
+  html: 
+    toc: true
+    theme: cosmo
+  pdf: 
+    documentclass: hitec
+    number-sections: true
+    toc: true
+---
+
+## Längd
+
+En Prova-På är oftast en timme lång, men detta kan givetvis variera.
+
+[Ladda ner som PDF](try-out.pdf){target="_blank"}
+
+## Mål
+
+Målet med en Prova-På lektion är alltid att de som kommer ska ha roligt och vilja komma tillbaka för att dansa mer. 
+
+Fokusera därför på att deltagarna ska ha roligt, teknik är sekundärt.
+
+## Upplägg
+
+Det finns flera olika upplägg på en Prova-På. Nedan presenteras 2 olika varianter, men de kan såklart varieras efter tycke och smak.
+
+
+### Start av Prova-På
+
+Börja med ett presentera er och var ni kommer ifrån. Berätta kort vad West Coast Swing är och var den kommer ifrån. Var tydlig med att syftet med denna Prova-På är inte att de ska lära sig turerna perfekt, utan för att få ett smakprov på vad West Coast Swing är. Berätta också att tempot kommer vara högre än på en vanlig kurs, så att de ska hinna prova på lite olika turer.
+
+### Grundsteg / rytm
+
+Förklara att inom WCS har vi inte ett enda grundsteg, som i till exempel bugg, men snarare grundturer, och att ni kommer testa på några olika idag. Gå igenom grundrytmen (gå gå trippelsteg) med dem. Börja med att de får gå på stället till grundrytmen (förare börjar på vänster och följare på höger). Räkna högt med dem. Välj en taktfast långsam låt (ungefär 80-85 bpm).
+
+### Connection / förning
+
+Välj en väldigt förenklad variant av connection och förning. Visa handfattning som en "tvåfingerkrok" där man försöker få connection närmare handflatan. Förning sker genom att ha avslappnade armar och föraren tar ett steg bakåt.
+
+::: {.callout-warning icon=false}
+
+## Obs!
+
+Allt ovan bör inte ta mer än 10-15 minuter.
+
+:::
+

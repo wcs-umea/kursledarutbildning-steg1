@@ -4,7 +4,8 @@ format:
   html: 
     toc: true
     theme: cosmo
-  pdf: default
+  pdf: 
+    documentclass: scrreprt
 ---
 
 
@@ -12,7 +13,7 @@ format:
 
 Denna kursplanering är anpassad för en veckokurs som innehåller 8 tillfällen, en timme vardera. Om ni planerar en kurs som är kortare eller längre kan innehållet behöva ändras.
 
-[Ladda ner som PDF](step1_syllabus.pdf)
+[Ladda ner som PDF](step1_syllabus.pdf){target="_blank"}
 
 ## Mål
 
@@ -31,6 +32,18 @@ Följande turer passar att lära ut på en Nybörjarkurs. Beroende på antal gå
 | Free spin      |            |            |
 | Start step     |            |            |
 
+
+## Tekniska koncept
+
+Följande tekniska koncept är lämpliga att ta upp på en nybörjarkurs.
+
+|             |                 | 
+|-------------|-----------------|
+| Frame       | Håll bak axlarna, engagera ryggen. Avslappnad biceps |
+| Stretch     | Simplifierad: rulla ner långsamt på 6, release kommer från att höger (för följaren) häl lyfts från golvet |
+| Snurrteknik | Spotting, prep, korta steg |
+
+: {tbl-colwidths="[25,75]"}
 
 
 ## Kursplanering

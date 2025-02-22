@@ -28,9 +28,8 @@ Efter avslutad kurs ska eleven ha de kunskaper och verktyg för att kunna planer
 
 Efter avslutad utbildning ska eleven kunna:
 
-- Demonstrera grundturerna, enligt kursplan steg 1 i takt utan att vara i vägen eller förstöra för sin danspartner
+- Demonstrera grundturerna, enligt kursplan steg 1 med korrekt timing och grundläggande teknik
 - Namnge och klassificera grundturerna (pushes, passes och whips)
-- Använda följande tekniska komponenter i sin dans: connection (stretch & compression), lead & follow, frame, ankare
 - Utföra dansen både som förare och följare enligt ovanstående kriterier
 - Använda föreslagen metodik för att lära ut grundturerna (enligt kursplan steg 1)
 - Använda föreslagen metodik för att lära ut de tekniska komponenter (enligt kursplan steg 1)
@@ -42,8 +41,3 @@ Efter avslutad utbildning ska eleven kunna:
 - Genomföra och anpassa en kurs med utgångspunkt från kurskompendiet
 - Välja passande musik till kurs och socialdans
 
-
-
-
-
-## Examination och certifiering  

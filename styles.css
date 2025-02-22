@@ -57,3 +57,14 @@ a:hover {
   .callout-warning {
     border-left: 5px solid #a6a6a6  !important;
   }
+
+.footer {
+    background-color: #fcfcfc;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between; /* Pushes items to opposite sides */
+    align-items: center;
+}

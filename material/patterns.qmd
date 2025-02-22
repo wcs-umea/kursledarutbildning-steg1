@@ -3,10 +3,11 @@ title: "Turer och Tekniker"
 format: revealjs
 ---
 
-## Getting up
+## Turer
 
-- Turn off alarm
-- Get out of bed
+- Klassificering av turer
+- Hur många grundturer har vi?
+- 
 
 ## Going to sleep
 

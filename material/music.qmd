@@ -3,12 +3,11 @@ title: "Hur väljer vi bra musik till våra kurser?"
 format: revealjs
 ---
 
-## Getting up
+## Musik
 
-- Turn off alarm
-- Get out of bed
+- Tempo
+- Taktfast
 
-## Going to sleep
+## Övning
 
-- Get in bed
-- Count sheep
+- Vilka låtar är bra för nybörjarkurs?

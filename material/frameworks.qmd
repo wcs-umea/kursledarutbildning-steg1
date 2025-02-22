@@ -3,10 +3,13 @@ title: "Använda ramverk i din undervisning"
 format: revealjs
 ---
 
-## Getting up
+## Att inkludera
 
-- Turn off alarm
-- Get out of bed
+- Hur fungerar lärande?
+- VPIÖ
+- Upplägg av kurstillfälle
+- Rotationer och placeringar
+- 
 
 ## Going to sleep
 
