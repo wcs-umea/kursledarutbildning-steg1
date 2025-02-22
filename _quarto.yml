@@ -28,6 +28,7 @@ website:
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
   body-footer: footer.html
+  body-header: banner.html
 
 
 format:

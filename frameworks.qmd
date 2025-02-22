@@ -43,6 +43,13 @@ Exempel:
 - Placera ut extra följare jämnt
 - Säg "high five och rotera" vid varje rotation
 
+#### Räkning och takning
+
+- Räkna in 5,6,7,8
+- Räkna turerna med siffror
+- Räkna turerna med gå gå trippelsteg
+- Annonsera nästkommande tur på sista 5&6
+
 ## Att inkludera?
 
 - Enkel taktfast musik
