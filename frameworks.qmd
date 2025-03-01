@@ -1,6 +1,12 @@
 ---
 title: "Ramverk"
 date: today
+format:
+  html: 
+    toc: true
+    theme: cosmo
+  pdf: 
+    documentclass: scrreprt
 ---
 
 # Vad är ett ramverk?
@@ -33,6 +39,10 @@ Exempel:
 - Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
 - Tur som kräver det tekniska konceptet: Left side turn
 
+#### Frågor och feedback
+
+Fråga deltagarna om de har frågor
+
 
 ## Strukturramverk
 
@@ -45,6 +55,7 @@ Exempel:
 
 #### Räkning och takning
 
+- Börja på "fel fot" för att lägga över vikten på 8 vid inräkning
 - Räkna in 5,6,7,8
 - Räkna turerna med siffror
 - Räkna turerna med gå gå trippelsteg

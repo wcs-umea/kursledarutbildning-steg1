@@ -5,13 +5,15 @@ format:
     toc: true
     theme: cosmo
   pdf: 
+    latex-engine: xelatex
     documentclass: scrreprt
+    fontfamily: mathpazo
+    template-partials: 
+      - title.tex
 ---
 
 
 ## Kurslängd
-
-Denna kursplanering är anpassad för en veckokurs som innehåller 8 tillfällen, en timme vardera. Om ni planerar en kurs som är kortare eller längre kan innehållet behöva ändras.
 
 [Ladda ner som PDF](step1_syllabus.pdf){target="_blank"}
 
@@ -25,12 +27,11 @@ Målet med en nybörjarkurs är att eleverna ska ha roligt, och vilja fortsätta
 
 Följande turer passar att lära ut på en Nybörjarkurs. Beroende på antal gånger, samt hur gruppen är, kan detta behöva justeras något.
 
-| Left side      | Middle     | Right side |
-|----------------|------------|------------|
-| Left side pass | Sugar push | Under arm  |
-| Left side turn | Sugar tuck | Whip       |
-| Free spin      |            |            |
-| Start step     |            |            |
+| Left side      | Middle       | Right side |
+|----------------|--------------|------------|
+| Left side pass | Sugar push   | Under arm  |
+| Left side turn | Sugar tuck   | Whip       |
+| Free spin      | Starter step |            |
 
 
 ## Tekniska koncept
@@ -41,6 +42,7 @@ Följande tekniska koncept är lämpliga att ta upp på en nybörjarkurs.
 |-------------|-----------------|
 | Frame       | Håll bak axlarna, engagera ryggen. Avslappnad biceps |
 | Stretch     | Simplifierad: rulla ner långsamt på 6, release kommer från att höger (för följaren) häl lyfts från golvet |
+| Connection? |  |
 | Snurrteknik | Spotting, prep, korta steg |
 
 : {tbl-colwidths="[25,75]"}
@@ -65,7 +67,7 @@ Börja alltid med att introducera er själva och hälsa alla välkomna. Praktisk
 
 Starta med att berätta att WCS inte har ett grundsteg på samma sätt som t ex. salsa eller bugg, utan att vi snarare använder ett par olika grundturer, eller en grundrytm när vi dansar.
 
-- **Gå gå trippelsteg:** Förarna börjar på vänster, och följarna på höger. En i lärarparet demonstrerar förarstegen och den andra följarstegen. Låt deltagarna stå själva och gå på stället och följa rytmen som ni demonstrerar. Välj en långsam låt med väldigt tydlig rytm för att träna till musik, ungefär 70-80 bpm första gången. Nästa steg är att låta deltagarna röra sig runt i rummet i samma rytm, både framåt och bakåt.
+- **Gå gå trippelsteg:** Ställ deltagarna i en cirkel med ansiktet in mot mitten. Förarna börjar på vänster, och följarna på höger. En i lärarparet demonstrerar förarstegen och den andra följarstegen. Låt deltagarna stå själva och gå på stället och följa rytmen som ni demonstrerar. Välj en långsam låt med väldigt tydlig rytm för att träna till musik, ungefär 70-80 bpm första gången. Nästa steg är att låta deltagarna röra sig runt i rummet i samma rytm, både framåt och bakåt.
 
 - **Handfattning och kroppsförning:** När alla fått in grundrytmen är det dags för deltagarna att hitta en partner och testa tillsammans. Förklara för deltagarna att i WCS kommer förningen från att föraren och följaren är i stretch (ytterläge) och när föraren rör sig bakåt kommer följaren att följa med, inget extra drag behövs. Demonstrera "tvåfingerkroken" där föraren lägger fram händerna, och följaren lägger händerna ovanpå. Målet är att få kroken så nära in i knogleden som möjligt. När de fattat varandras händer så instruera dem att slappna av i armarna, samtidigt som de håller axlarna på plats (detta för att skydda axlarna), och backa med små korta steg tills de börjar känna connection. Härifrån tar föraren ett steg bakåt, vilket får följaren att följa med. Se till att göra high five och rotera följarna så alla får prova. Det här är grundförningen som vi kommer använda i grundkursen. Allt detta bör förklaras så förenklat som möjligt, och inte ta mer än 5 minuter, då det kommer repeteras kommande tillfällen.
 
@@ -121,7 +123,7 @@ Förklara att WCS är en dans där vi använder mycket musikalitet och kommunika
 
 - Följaren indikerar redan på 2& att hon vill göra något, genom att ge lite mer connection
 - Visa några enkla varianter som följaren kan göra för att förlänga 3&4 med 2-4 taktslag
-- Föraren väntar in följaren, eller följer med hen om det behövs
+- Föraren väntar in följaren, eller följer med hen om det behövs. Med väntar menar vi att föraren tar steg på stället för att hålla takten.
 - Följaren ansvarar för att avsluta turen korrekt
 - Se till att rotera ofta och spela olika typer av musik så de får testa
 
@@ -134,14 +136,33 @@ Börja med kort stretch-compression övning där föraren och följaren står mo
   - Viktigt att föraren inte pushar ut följaren med armarna, utan använder kroppen för att föra ut från compressionen
 - Låt deltagarna träna på turen, och lägg även in de andra turerna de redan kan 
 
-  
-
 
 ### Tillfälle 3
 
-- Repetition (20 min)
-- Enkel snurrteknik
-- Left side turn
+#### Repetition (~20 min)
+Repetition av Sugar push och musikalitet i Under arm. Var uppmärksam på de som ej var med på föregående tillfälle om de behöver extra hjälp.
+
+#### Snurrteknik (~10 min)
+Då nästa tur är Left side turn så bör kursledarna gå igenom en förenklad version av snurrteknik. 
+
+Tekniken behövs främst för följarna, men även förarna har nytta av dessa övningar:
+
+- Spotting: låt deltagaren fokusera blicken på en punkt rakt fram. Låt dem sakta rotera på stället tills de måste vrida huvudet för att åter kunna fokusera blicken på samma punkt
+- Prep: snurra ett varv där prep från överkroppen används
+- Små steg: Samma snurr som ovan där de också ska tänka på små steg i snurren, för att hålla balansen bättre
+
+#### Left side turn (~20 min)
+
+Ge en mer detaljerad instruktion till turen:
+
+- Föraren steg är detsamma som i en vanlig Left side turn
+- Prep på 1 och 2. Obs! Prepen på 1 är väldigt liten och är mest för att indikera för följaren att det kommer en annan prep. Prep på 2 ska föraren sätta handen utanför förningslinjen
+- Följaren håller tillbaka lite på 2 innan viktförflyttningen kommer
+- Viktigt: följaren tar ner handen efter snurren, inte föraren. Detta för att undvika att föraren rycker ner följarens arm och det blir risk för skador
+
+#### Fri dans (~10 min)
+
+De sista 10 minuterna kan med fördel användas för att låta deltagarna dansa fritt med de turer de lärt sig hittills. Spela musik och rotera ofta.
 
 ### Tillfälle 4
 
