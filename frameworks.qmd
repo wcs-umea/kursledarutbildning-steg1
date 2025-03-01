@@ -50,6 +50,19 @@ Exempel:
 - Räkna turerna med gå gå trippelsteg
 - Annonsera nästkommande tur på sista 5&6
 
+#### Lärarledd eller fri övning
+
+Nedan följer olika sätt att ge sina kursdeltagare en struktur för att träna turer. När en tur först lärs ut så passar det lärarledda sättet. Vartefter gruppen förstår turen bättre och bättre kan man gå nedåt i listan, och avsluta med att låta paret dansa själv utan guidning.
+
+**Lärarledd:** Läraren räknar in och hela gruppen gör turen tillsammans.
+
+**Lärarledd start:** Läraren räknar in och hela gruppen gör turen tillsammans. Efter det fortsätter gruppen dansa, och förarna för turen själva, uppblandat med grundsteg.
+
+**Halvfri:** Föraren får 2 turer att alternera mellan, men väljer själv vilken tur som förs. Räknas oftast in av kursledaren.
+
+**Fritt:** Föraren väljer fritt vilka turer som dansas. Kursledaren kan dock instrurera att fokusera på en specifik tur. 
+
+
 ## Att inkludera?
 
 - Enkel taktfast musik

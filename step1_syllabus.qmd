@@ -48,18 +48,94 @@ Följande tekniska koncept är lämpliga att ta upp på en nybörjarkurs.
 
 ## Kursplanering
 
+::: {.callout-warning icon=false}
+
+## 
+Se till att läsa de pedagogiska ramverken som medföljer denna kursplanering, då de inte alltid kommer nämnas explicit i texten, utan alltid ska användas.
+
+:::
+
 ### Tillfälle 1
 
-- Gå gå trippelsteg
-- Handfattning och kroppsförning (väldigt simplifierat)
-- Left side pass
-- Under arm
+#### Introduktion (~5 min)
+
+Börja alltid med att introducera er själva och hälsa alla välkomna. Praktisk information såsom nödutgångar, eventuella avbrott i kursen, etc, tas upp innan ni kör igång och dansar. Fråga gärna vilka som testat West Coast Swing tidigare, och berätta kort att dansen har sitt ursprung i Lindy Hop.
+
+#### Grundstegen och förning (~15 min)
+
+Starta med att berätta att WCS inte har ett grundsteg på samma sätt som t ex. salsa eller bugg, utan att vi snarare använder ett par olika grundturer, eller en grundrytm när vi dansar.
+
+- **Gå gå trippelsteg:** Förarna börjar på vänster, och följarna på höger. En i lärarparet demonstrerar förarstegen och den andra följarstegen. Låt deltagarna stå själva och gå på stället och följa rytmen som ni demonstrerar. Välj en långsam låt med väldigt tydlig rytm för att träna till musik, ungefär 70-80 bpm första gången. Nästa steg är att låta deltagarna röra sig runt i rummet i samma rytm, både framåt och bakåt.
+
+- **Handfattning och kroppsförning:** När alla fått in grundrytmen är det dags för deltagarna att hitta en partner och testa tillsammans. Förklara för deltagarna att i WCS kommer förningen från att föraren och följaren är i stretch (ytterläge) och när föraren rör sig bakåt kommer följaren att följa med, inget extra drag behövs. Demonstrera "tvåfingerkroken" där föraren lägger fram händerna, och följaren lägger händerna ovanpå. Målet är att få kroken så nära in i knogleden som möjligt. När de fattat varandras händer så instruera dem att slappna av i armarna, samtidigt som de håller axlarna på plats (detta för att skydda axlarna), och backa med små korta steg tills de börjar känna connection. Härifrån tar föraren ett steg bakåt, vilket får följaren att följa med. Se till att göra high five och rotera följarna så alla får prova. Det här är grundförningen som vi kommer använda i grundkursen. Allt detta bör förklaras så förenklat som möjligt, och inte ta mer än 5 minuter, då det kommer repeteras kommande tillfällen.
+
+#### Left side pass (~20 min)
+
+Använd VPIÖ för att lära ut (gäller alla turer) 
+
+- Börja med att demonstrera turen från båda hållen
+- Låt deltagarna testa turen, se till att rotera ett par gånger. Målet här är att följaren ska ta sig från en sida till nästa, och passera på förarens vänstra sida.
+- Ge en mer detaljerad instruktion till turen.
+  - Börja alltid med tvåfingerkroken och att backa ut i connection
+  - Föraren går rakt bakåt på 1an, och kliver sedan ur spår
+  - Både förare och följare måste vara avslappnade i armarna
+  - Följaren kommer att gå rakt fram tills hen känner att connection får hen att rotera upp mot föraren igen.
+  - Följaren är huvudsakligen ansvarig för att gå till ändläget och bygga upp stretch
+- Låt deltagarna testa, både med er som räknar turen, och till slut med musik
+- Monitorera gruppen för att se vad för problem som många har, och ta upp dessa saker i helgrupp, och visa hur det ska utföras
+- Se till att deltagarna får många möjligheter att testa till musik
+
+#### Under arm (~20 min)
+- Börja med att demonstrera turen från båda hållen
+- Låt deltagarna testa turen, se till att rotera ett par gånger. Målet här är att följaren ska ta sig från en sida till nästa, och passera på förarens högra sida.
+- Ge en mer detaljerad instruktion till turen.
+  - Börja alltid med tvåfingerkroken och att backa ut i connection
+  - Säg åt förarna att titta på klockan, det kommer få dem att vända upp handen rätt så att följaren kan passera under
+  - Både föraren och följaren måste vara avslappnade i armarna, annars kommer följaren att backa ut igen och inte gå under 
+  - Följare ska rotera över sin vänstra axel
+- Låt deltagarna testa, både med er som räknar turen, och till slut med musik
+- Monitorera gruppen för att se vad för problem som många har, och ta upp dessa saker i helgrupp, och visa hur det ska utföras
+- Se till att deltagarna får många möjligheter att testa till musik
+- Låt deltagarna växla mellan left side pass och under arm, där förarna väljer vilken tur som kommer
+  
+
+::: {.callout-warning icon=false}
+
+## 
+Upplägget i efterföljande tillfällen är detsamma som ovan, men i texten kommer vi endast fokusera på de unika detaljerna för varje tur och koncept
+
+:::
 
 ### Tillfälle 2
 
-- Repetition (20 min)
-- Sugar push
-- Musikalitet i Under arm (följaren gör en enkel stegkombination och kan förlänga turen på 3&4)
+#### Repetition (~25 min)
+Börja med att fråga om det var några som missade förra tillfället. Om så, ge lite extra stöd till dessa under repetitionen. Repetitionen ska i princip gå igenom samma saker som under förra lektionen, men under kortare tid.
+
+- Repetera gå-gå-trippelsteg
+- Repetera handfattning och connection
+- Repetera Left side pass
+- Repetera Under arm
+
+#### Musikalitet i Under arm (~15 min)
+Förklara att WCS är en dans där vi använder mycket musikalitet och kommunikation mellan förare och följare. De kommer få lära sig en enkel variation som följaren kan ta initiativ till.
+
+- Följaren indikerar redan på 2& att hon vill göra något, genom att ge lite mer connection
+- Visa några enkla varianter som följaren kan göra för att förlänga 3&4 med 2-4 taktslag
+- Föraren väntar in följaren, eller följer med hen om det behövs
+- Följaren ansvarar för att avsluta turen korrekt
+- Se till att rotera ofta och spela olika typer av musik så de får testa
+
+#### Sugar push (~20 min)
+Börja med kort stretch-compression övning där föraren och följaren står mot varandra, och växlar mellan stretch och compression genom att endast flytta vikten.
+- Demonstrera en Sugar push och låt deltagarna testa. 
+- Ge en mer detaljerad instruktion till turen.
+  - Compression: följaren går till ändläget, och väntar där på att föraren för tillbaka hen
+  - Föraren absorberar normalt mest av compressionen, men följaren kan också absorbera om nödvändigt
+  - Viktigt att föraren inte pushar ut följaren med armarna, utan använder kroppen för att föra ut från compressionen
+- Låt deltagarna träna på turen, och lägg även in de andra turerna de redan kan 
+
+  
+
 
 ### Tillfälle 3
 
