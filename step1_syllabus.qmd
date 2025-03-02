@@ -7,9 +7,6 @@ format:
   pdf: 
     latex-engine: xelatex
     documentclass: scrreprt
-    fontfamily: mathpazo
-    template-partials: 
-      - title.tex
 ---
 
 
@@ -140,7 +137,7 @@ Börja med kort stretch-compression övning där föraren och följaren står mo
 ### Tillfälle 3
 
 #### Repetition (~20 min)
-Repetition av Sugar push och musikalitet i Under arm. Var uppmärksam på de som ej var med på föregående tillfälle om de behöver extra hjälp.
+Repetition av Sugar push och musikalitet i Under arm. Var uppmärksam på de som ej var med på föregående tillfälle om de behöver extra hjälp. Lägg gärna in Left side pass och Under arm mellan turerna så att du kan se om det är något där som måste repeteras.
 
 #### Snurrteknik (~10 min)
 Då nästa tur är Left side turn så bör kursledarna gå igenom en förenklad version av snurrteknik. 
@@ -159,16 +156,33 @@ Ge en mer detaljerad instruktion till turen:
 - Prep på 1 och 2. Obs! Prepen på 1 är väldigt liten och är mest för att indikera för följaren att det kommer en annan prep. Prep på 2 ska föraren sätta handen utanför förningslinjen
 - Följaren håller tillbaka lite på 2 innan viktförflyttningen kommer
 - Viktigt: följaren tar ner handen efter snurren, inte föraren. Detta för att undvika att föraren rycker ner följarens arm och det blir risk för skador
+- När deltagarna tränar turen, säg till att de lägger till några andra turer emellan Left side turn, då ovana följare lätt kan bli yra av för mycket snurrande.
 
 #### Fri dans (~10 min)
 
-De sista 10 minuterna kan med fördel användas för att låta deltagarna dansa fritt med de turer de lärt sig hittills. Spela musik och rotera ofta.
+De sista 10 minuterna kan med fördel användas för att låta deltagarna dansa fritt med de turer de lärt sig hittills. Spela musik och rotera ofta. Ser du att deltagarna har problem att starta själva, räkna in efter varje rotation.
 
 ### Tillfälle 4
 
-- Repetition (20 min)
-- Sugar tuck
-- Följarstyling i tuck (förlänga 5&6)
+#### Repetition (~20 min)
+Kort repetition av Sugar push + repetition av snurrteknik och Left side turn.
+
+#### Sugar tuck (~20 min)
+Ge en mer detaljerad instruktion till turen:
+
+- Föraren steg är detsamma som i en vanlig Sugar push
+- Föraren placerar vänster hand upp, ungefär i höjd med följarens huvud
+- Följaren måste fortfarande gå in i compressionen liknande som i Sugar push
+- Viktigt: följaren tar ner handen efter rotationen, inte föraren. Detta för att undvika att föraren rycker ner följarens arm och det blir risk för skador
+- Efter turen kommer handfattningen att vara "upp och ned", fråga deltagarna vilken tur de kan använda för att fixa till detta (Under arm)
+- Låt deltagarna variera mellan vanlig Sugar push och Sugar tuck, för att tydliggöra att känslan och stegen är väldigt lika
+
+#### Följarstyling i Sugar tuck (~20 min)
+Detta är också en styling som följare kan ta initiati till och förlänga en tur.
+
+- För att tydliggöra att följaren vill göra något, instruera dem att lägga vänsterhanden på förarens vänsterhand på &4, för att visa att de vill ha utrymme
+- Visa en enkel förlängning av turen för följare (t ex. lägg till 2 gåsteg)
+- Följaren ansvarar för att gå ut i stretch och avsluta turen
 
 ### Tillfälle 5
 
