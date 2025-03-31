@@ -41,25 +41,29 @@ Exempel:
 
 #### Frågor och feedback
 
-Fråga deltagarna om de har frågor
+Fråga deltagarna efter varje genomgång om de har frågor. Om det är relevant för många i gruppen så gå igenom det i helklass. Är det en fråga som ni bedömmer bara är relevant för deltagaren som frågar, så gå till dem och ge dem feedback så fort ni får möjlighet.
 
+Monitorera gruppen när de tränar, ser ni något som bör tas i helgrupp så säg vad ni såg, och hur ni vill att det ska se ut i stället. Försök att inte lägga någon värdering bakom det ni såg, säg till exempel inte att det såg dåligt ut, utan snarare att det är saker som saknas, och varför något är viktigt att göra.
+
+#### Feedback mellan kursdeltagare
+Frågan om feedback till sina kurskamrater är alltid känslig, men generellt är det bra att uppmana sina deltagare att INTE ge oombedd feedback till sin partner. Man kan själv be om feedback, till exempel fråga sin partner hur det känns när man själv gör turen, men har de frågor eller funderingar om de gör rätt är de bättre att de frågar kursledarna. Var tydig med detta i början av kursen, samt påminn dem de första gångerna om detta.
 
 ## Strukturramverk
 
 #### Rotation och placering
 
-- Börja alla turer med alla förare med ansiktet åt samma håll
-- Rotera följare motsols
-- Placera ut extra följare jämnt
-- Säg "high five och rotera" vid varje rotation
+- Börja alla turer med alla förare med ansiktet åt samma håll, det kommer underlätta för er som lärare att se om det är några problem med en tur
+- Rotera följare motsols (eller medsols, de flesta roterar dock motsols)
+- Placera ut extra följare jämnt så att det inte blir 2 ensamma följare på rad
+- Säg "high five och rotera" vid varje rotation, det går deltagarna en chans att ha en mini-interaktion med varandra
+- Rotera efter deltagarna har fått prova en sak 1-2 gånger med sin partner. Har ni extra följare så måste de få testa allt i minst 2 rotationer så alla får chans att testa. 
 
 #### Räkning och takning
 
-- Börja på "fel fot" för att lägga över vikten på 8 vid inräkning
-- Räkna in 5,6,7,8
-- Räkna turerna med siffror
-- Räkna turerna med gå gå trippelsteg
-- Annonsera nästkommande tur på sista 5&6
+- Börja på "fel fot" för att lägga över vikten på 8 vid inräkning. Förklara varför ni gör detta
+- Räkna in 5,6,7,8. Försök börja inräkningen så det timar med musikens 5,6,7,8
+- Växla mellan att ibland räkna turer med siffror och ibland med gå gå trippelsteg
+- Annonsera nästkommande tur på sista 5&6 i en tur så förarna har en chans att förbereda sig om ni har en given sekvens ni vill att de gör. Till exempel: 1 2 3&4 under arm
 
 #### Lärarledd eller fri övning
 
@@ -71,7 +75,7 @@ Nedan följer olika sätt att ge sina kursdeltagare en struktur för att träna 
 
 **Halvfri:** Föraren får 2 turer att alternera mellan, men väljer själv vilken tur som förs. Räknas oftast in av kursledaren.
 
-**Fritt:** Föraren väljer fritt vilka turer som dansas. Kursledaren kan dock instrurera att fokusera på en specifik tur. 
+**Fritt:** Föraren väljer fritt vilka turer som dansas. Kursledaren kan dock instruerera att fokusera på en specifik tur. 
 
 
 ## Att inkludera?

@@ -15,7 +15,9 @@ date: today
 
 ## Kursbeskrivning
 
-Del av [Kursledarprogrammet i WCS 2024-2025](https://wcs-umea.github.io/kursledarprogram/2024-2025/).
+Kursen går igenom de grundläggande kunskaperna som krävs för att på egen hand kunna hålla grundkurser inom WCS. Kursen går igenom de turer och tekniker som kan läras ut på en grundkurs, samt hur man bäst lägger upp sin kurs. Utöver detta så täcks också grundläggande pedagogik och din roll som kursledare.
+
+Denna kurs är en del av [Kursledarprogrammet i WCS 2025-2026](https://wcs-umea.github.io/kursledarprogram/2025-2026/).
 
 ## Kursmål
 Efter avslutad kurs ska eleven ha de kunskaper och verktyg för att kunna planera och hålla:
@@ -30,12 +32,11 @@ Efter avslutad utbildning ska eleven kunna:
 
 - Demonstrera grundturerna, enligt kursplan steg 1 med korrekt timing och grundläggande teknik
 - Namnge och klassificera grundturerna (pushes, passes och whips)
-- Utföra dansen både som förare och följare enligt ovanstående kriterier
 - Använda föreslagen metodik för att lära ut grundturerna (enligt kursplan steg 1)
 - Använda föreslagen metodik för att lära ut de tekniska komponenter (enligt kursplan steg 1)
 - Skapa kurser och miljöer som är:
-    - trygga, inkluderande (respekt och samtycke)
-    - lärande (feedback och tolerans för variationer)
+    - trygga och inkluderande
+    - lärande
 - Välja passande lärandeaktiviteter för olika situationer
 - Förstå de grundläggande pedagogiska principerna
 - Genomföra och anpassa en kurs med utgångspunkt från kurskompendiet

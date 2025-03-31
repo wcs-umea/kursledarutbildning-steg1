@@ -8,7 +8,7 @@ Här finns allt material för programmet sparat. Materialet är skapat under CC-
 
 ## Personer som bidragit till materialet
 
-Följande personer har bidragit till skapandet av detta material, antingen som författare eller har bidragit med värdefull input:
+Följande personer har bidragit till skapandet av detta material:
 
 - Nina Norgren
 - Chris Blöcker
@@ -18,6 +18,10 @@ Följande personer har bidragit till skapandet av detta material, antingen som f
 - Daniel Berglund
 - Andreas Espeborn
 - Jens Wallström
+
+#### Granskare
+
+- ?
 
 Materialet har delvis utvecklats med stöd av Svenska Danssportförbundet.
 
