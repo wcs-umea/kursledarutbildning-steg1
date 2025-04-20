@@ -39,6 +39,9 @@ Exempel:
 - Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
 - Tur som kräver det tekniska konceptet: Left side turn
 
+#### Uppvärmning i grupp
+Gå gå trippelsteg
+
 #### Frågor och feedback
 
 Fråga deltagarna efter varje genomgång om de har frågor. Om det är relevant för många i gruppen så gå igenom det i helklass. Är det en fråga som ni bedömmer bara är relevant för deltagaren som frågar, så gå till dem och ge dem feedback så fort ni får möjlighet.

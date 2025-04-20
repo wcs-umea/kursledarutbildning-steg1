@@ -1,14 +1,134 @@
 ---
 title: "Introduktion"
-format: revealjs
+format: 
+    revealjs:
+        theme: [default, custom.scss]
 ---
 
-## Getting up
 
-- Turn off alarm
-- Get out of bed
+# Kursledarprogram WCS 2025 {background-color="#880088"}
 
-## Going to sleep
+::: {#logo}
+![](../img/wcsumea-logo.png){width=30%}
+:::
 
-- Get in bed
-- Count sheep
+Umeå 18 oktober 2025
+
+## Målet med programmet
+
+<br>
+Att ge nya/blivande kursledare de kunskaper och verktyg de behöver för att börja hålla egna kurser
+
+<br>
+
+::: {.fragment}
+Efter avslutat program ska eleven själv kunna planera och hålla:
+:::
+
+::: {.fragment}
+- Prova-på lektioner
+- Nybörjarkurser Steg 1
+- Fortsättningskurser Steg 2
+:::
+
+## Innehåll
+
+Programmet innehåller en blandning av teori och praktik, och täcker:
+
+- Introduktion till pedagogik
+- Ramverk för att strukturera lektioner
+- Genomgångar av turer och vanliga problem
+- Hur man väljer musik till nybörjarkurser
+- Din roll som ledare
+- Din utveckling som lärare
+
+## Programmets upplägg
+
+
+| Datum | Tid  | Aktivitet |
+|------|-------|---------| 
+| 18 - 19 okt | 11.00 - 17.00 | Umeå: Utbildning Steg 1 |
+| 13 nov    | 19.00 - 20.00 | Online: Pedagogik och lärande |
+| 28 jan    | 19.00 - 20.00 | Online: Din roll som ledare och förebild |
+| 2 mar     | 19.00 - 20.00 | Online: Din utveckling som kursledare |
+| 7 - 8 mar | 11.00 - 17.00 | Umeå: Utbildning Steg 2 |
+| 27 april  | 19.00 - 20.00 | Online: Wrap-up av programmet |
+: {tbl-colwidths="[25,30,45]"} 
+
+
+## Praktik
+<br>
+**Observera** minst 2 tillfällen (nybörjarkurs och fortsättningskurs)
+
+<br>
+**Praktisera** vid minst 2 tillfällen (nybörjarkurs och fortsättningskurs)
+
+<br>
+Utvärdera och reflektera med ordinarie kursledare.
+
+Mer information finns på kurshemsidan.
+
+## Förväntningar
+<br>
+
+**På er som deltagare**
+
+- Vara med på alla kurser, seminarier, och praktiska moment
+- Vara aktiv under kurser och föreläsningar
+- Lämna in reflektionsrapporter från praktik
+
+## Förväntningar
+<br>
+
+**På oss som instruktörer**
+
+- Vara förberedda
+- Vara öppna för diskussioner och frågor
+- Ge feedback på reflektionsuppgifter och frågor
+- Anpassa programmet efter feedback
+
+## Certifikat
+<br>
+
+Efter avslutat program kommer deltagare som varit med på alla moment att få ett certifikat för deltagande.
+
+## Det finns inget "rätt sätt"
+<br>
+Det finns flera olika sätt att lära ut WCS, inget behöver vara mer rätt eller fel än andra.
+
+<br>
+Vi kommer att presentera **ett sätt som vi tycker fungerar bra**, det är upp till er att ta till er de delar ni känner passar er.
+
+## Frågor?
+
+## Schema för Steg 1
+<br>
+
+#### **Lördag den 18 oktober**
+
+| Tid           |      |
+|---------------|------|
+| 11:00 - 11:15 | Introduktion till dagen |
+| 11:15 - 11:45 | Teori: Turer och Tekniker |
+| 11:45 - 13:00 | Genomgång: Turer och vanliga fel
+| 13:00 - 14:00 | LUNCH |
+| 14:00 - 16:00 | Genomgång: Turer och vanliga fel |
+
+: {tbl-colwidths="[25,75]"} 
+
+## Schema för Steg 1
+<br>
+     
+#### **Söndag den 19 oktober**  
+
+| Tid           |      |
+|---------------|------|
+| 10:00 - 11:00 | Teori: Pedagogik och ramverk |
+| 11:00 - 12:00 | Övning: Testa ramverk |
+| 12:00 - 13:00 | LUNCH |
+| 13:00 - 13:30 | Teori: Trygga miljöer |
+| 13:30 - 14:00 | Teori: Musik |
+| 14:00 - 16:00 | Övning: Planera och håll en lektion |
+
+
+: {tbl-colwidths="[25,75]"} 

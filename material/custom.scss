@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f7f2f7;
+$body-color: #333333;
+$link-color: #880088;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+h1 {
+    text-align: center;
+  }
+
+
+h2 {
+    color: #880088!important;
+}
+
+#logo {
+    text-align: center;
+}
+
+#logo img {
+    display: inline-block;
+    max-width: 100%; /* Optional: scales for smaller viewports */
+    height: auto;
+}
