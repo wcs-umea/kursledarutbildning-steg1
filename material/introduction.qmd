@@ -1,18 +1,28 @@
 ---
-title: "Introduktion"
+page-title: "Introduktion"
+
 format: 
     revealjs:
         theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+        
 ---
 
 
-# Kursledarprogram WCS 2025 {background-color="#880088"}
+# Introduktion till programmet {background-color="#880088" footer=false}
+
+<br>
 
 ::: {#logo}
-![](../img/wcsumea-logo.png){width=30%}
+![](../img/wcsumea-logo.png){width=25%}
 :::
 
-Umeå 18 oktober 2025
+<br>
+
+Kursledarprogram WCS 2025
+
 
 ## Målet med programmet
 
@@ -99,7 +109,7 @@ Det finns flera olika sätt att lära ut WCS, inget behöver vara mer rätt elle
 <br>
 Vi kommer att presentera **ett sätt som vi tycker fungerar bra**, det är upp till er att ta till er de delar ni känner passar er.
 
-## Frågor?
+## Frågor? {.center}
 
 ## Schema för Steg 1
 <br>

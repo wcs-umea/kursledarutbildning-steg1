@@ -1,15 +1,101 @@
 ---
-title: "Turer och Tekniker"
-format: revealjs
+page-title: "Turer och teknik"
+
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+        
 ---
 
-## Turer
 
-- Klassificering av turer
-- Hur många grundturer har vi?
-- 
+# Turer och tekniker{background-color="#880088" footer=false}
 
-## Going to sleep
+<br>
 
-- Get in bed
-- Count sheep
+::: {#logo}
+![](../img/wcsumea-logo.png){width=25%}
+:::
+
+<br>
+
+Kursledarprogram WCS 2025
+
+
+## Varför går deltagarna kurs?
+<br>
+
+:::{.incremental}
+- Lära sig dansa
+- Röra sig till bra musik
+- Träffa nya människor
+- Ha roligt
+- Träffa en partner
+:::
+
+::: {.fragment}
+**Alla deltagare har olika målsättning med sin dans!**
+:::
+
+## Målet med en nybörjarkurs
+<br>
+
+Är att deltagarna **har roligt** och **kommer tillbaka** för fortsättningskursen.
+
+<br>
+
+::: {.fragment}
+Som kursledare är vårt mål att de ÄVEN **lär sig** något.
+:::
+
+## Turer för en nybörjarkurs
+<br>
+
+Följande är förslag på turer som passar att lära ut på en nybörjarkurs som går veckovis och är 8 gånger 1 timme lång.
+
+<br>
+Dessa turer är endast ett förslag, och kan adapteras efter kurslängd och deltagare.
+
+## Pushes, passes and whips
+<br>
+
+| Pushes | Passes  | Whips |
+|------|-------|---------| 
+| 3. Sugar push | 1. Left side pass | 7. Whip |
+| 5. Sugar tuck | 2. Under arm | |
+| | 4. Left side turn | |
+| | 8. Free spin | |
+: {tbl-colwidths="[33,33,33]"} 
+
+6. Starter step
+
+## I relation till föraren
+<br>
+
+| Left side      | Middle       | Right side |
+|----------------|--------------|------------|
+| 1. Left side pass | 3. Sugar push   | 2. Under arm  |
+| 4. Left side turn | 5. Sugar tuck   | 7. Whip       |
+| 8. Free spin      | 6. Starter step |            |
+: {tbl-colwidths="[33,33,33]"} 
+
+<br>
+<p style=text-align:right;><i>Källa: Ibirocay Alsén</i></p>
+
+
+## Tekniker
+<br>
+
+- Frame
+- Stretch
+- Connection
+- Enkel snurrteknik
+
+## Balans
+<br>
+
+- Enkla instruktioner som fortfarande är korrekta
+- Se till att deltagarna har roligt när de lär sig 
+- Låt deltagarna dansa mycket
