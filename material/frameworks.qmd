@@ -1,7 +1,48 @@
 ---
-title: "Använda ramverk i din undervisning"
-format: revealjs
+page-title: "Pedagogik och ramverk"
+
+format: 
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
+        
 ---
+
+# Pedagogik och ramverk{background-color="#880088" footer=false}
+
+<br>
+
+::: {#logo}
+![](../img/wcsumea-logo.png){width=25%}
+:::
+
+<br>
+
+Kursledarprogram WCS 2025
+
+
+## Hur lär man sig?
+
+7 pedagogiska principer
+
+## Ramverk
+
+Direkt tillämpbart för undervisning
+
+## Upplägg av kurstillfällen
+
+Pedagogisk princip: 
+
+## Visa, Pröva, Instruera, Öva
+
+Pedagogisk princip:
+
+## Frågor och feedback
+
+Pedagogisk princip: 
+
 
 ## Att inkludera
 
