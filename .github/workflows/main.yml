@@ -65,9 +65,6 @@ jobs:
           echo "$HOME/bin" >> $GITHUB_PATH
           echo "TEXLIVE_HOME=$HOME/.TinyTeX" >> $GITHUB_ENV
 
-      - name: Install Docker
-        uses: docker-practice/actions-setup-docker@v1
-
       - name: Render and deploy for each branch
         run: |
           # Add git info
