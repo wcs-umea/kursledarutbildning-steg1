@@ -33,3 +33,20 @@ h2 {
 .align-right {
   text-align: right;
 }
+
+.overlay-box {
+  position: absolute;
+  border-radius: 30px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: rgba(#880088, 0.95); /* semi-transparent black */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2em;
+  z-index: 9999;
+}

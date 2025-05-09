@@ -33,6 +33,7 @@ Kursledarprogram WCS 2025
 - Träffa nya människor
 - Ha roligt
 - Träffa en partner
+- "Komma ut ur huset ett tag"
 :::
 
 ::: {.fragment}
@@ -57,6 +58,18 @@ Följande är förslag på turer som passar att lära ut på en nybörjarkurs so
 
 <br>
 Dessa turer är endast ett förslag, och kan adapteras efter kurslängd och deltagare.
+
+## Turer för en nybörjarkurs
+<br>
+
+Följande är förslag på turer som passar att lära ut på en nybörjarkurs som går veckovis och är 8 gånger 1 timme lång.
+
+<br>
+Dessa turer är endast ett förslag, och kan adapteras efter kurslängd och deltagare.
+
+::: {.overlay-box}
+**Mindre fokus på VAD ni lär ut och mer på HUR**
+:::
 
 ## Pushes, passes and whips
 <br>
@@ -93,9 +106,27 @@ Dessa turer är endast ett förslag, och kan adapteras efter kurslängd och delt
 - Connection
 - Enkel snurrteknik
 
+## Musikalitet
+<br>
+
+- Förlängningar av till exempel Under arm
+- Variationer av ankarsteg för följare
+- Chilla-steg
+
 ## Balans
 <br>
 
-- Enkla instruktioner som fortfarande är korrekta
+- Enkla instruktioner som fortfarande är korrekta  
+- Var tydlig när ni demonstrerar
+- Undvik långa förklaringar
 - Se till att deltagarna har roligt när de lär sig 
 - Låt deltagarna dansa mycket
+
+
+## Diskussion
+<br>
+
+Kommer ni ihåg er första nybörjarkurs? 
+<br><br>
+
+Vad var det som gjorde att ni fortsatte dansa?
