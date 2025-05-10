@@ -14,11 +14,13 @@ date: today
 
 <iframe src="material/patterns.html" width="100%" height="300px" style="border: none;"></iframe>
 
+[Ladda ner PDF](material/patterns.pdf){target="_blank"}
 
 ## Ramverk
 
 <iframe src="material/frameworks.html" width="100%" height="300px" style="border: none;"></iframe>
 
+[Ladda ner PDF](material/frameworks.pdf){target="_blank"}
 
 ## Skapa trygga miljöer
 
