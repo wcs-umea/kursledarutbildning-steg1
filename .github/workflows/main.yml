@@ -121,6 +121,7 @@ jobs:
               docker run --rm -t -u $(id -u):$(id -g) \
                 -v $(pwd):/slides \
                 ghcr.io/astefanutti/decktape \
+                --chrome-arg=--disable-crash-reporter \
                 --chrome-arg=--no-sandbox \
                 --chrome-arg=--disable-setuid-sandbox \
                 "/slides/$html" "/slides/$pdf"
