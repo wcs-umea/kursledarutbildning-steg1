@@ -1,6 +1,11 @@
 ---
 title: "Hur väljer vi bra musik till våra kurser?"
-format: revealjs
+format:
+    revealjs:
+        theme: [default, custom.scss]
+        title-slide: false
+        logo: ../img/wcsumea-logo-black.png
+        footer: "Kursledarprogram WCS 2025-2026"
 ---
 
 ## Musik

@@ -1,10 +1,10 @@
 #!/bin/bash
 set -euo pipefail
 
-echo "Rendering material/*.qmd to HTML..."
-for f in material/*.qmd; do
-  echo "Rendering $f"
-  quarto render "$f"
+echo "Rendering changed slides:"
+for file in material/*.qmd; do
+  echo " - $file"
+  quarto render "$file"
 done
 
 echo "Rendering HTML slides to PDF..."
@@ -23,3 +23,4 @@ for f in material/*.qmd; do
     echo "Skipping: $html not found"
   fi
 done
+
