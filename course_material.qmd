@@ -7,7 +7,7 @@ date: today
 
 <iframe src="material/introduction.html" width="100%" height="300px" style="border: none;"></iframe>
 
-[Download PDF version](material/introduction.pdf)
+[Download PDF version](material/introduction.pdf){target="_blank"}
 
 
 ## Turer och tekniker
