@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: decktape-pdf
+        name: Render RevealJS slides to PDF
+        entry: ./scripts/render-pdf.sh
+        language: script
+        files: ^material/.*\.qmd$
