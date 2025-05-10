@@ -19,6 +19,7 @@ for f in material/*.qmd; do
       -v "$(pwd)":/slides \
       ghcr.io/astefanutti/decktape \
       "$html" "$pdf"
+    git add "$pdf"
   else
     echo "Skipping: $html not found"
   fi
