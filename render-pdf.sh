@@ -11,7 +11,7 @@ echo "Rendering HTML slides to PDF..."
 for f in material/*.qmd; do
   base=$(basename "$f" .qmd)
   html="_site/material/$base.html"
-  pdf="_site/material/$base.pdf"
+  pdf="material/$base.pdf"
 
   if [ -f "$html" ]; then
     echo "Generating PDF for $html"
