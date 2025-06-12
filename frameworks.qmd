@@ -5,8 +5,11 @@ format:
   html: 
     toc: true
     theme: cosmo
-  pdf: 
-    documentclass: scrreprt
+  custom-pdfs-typst:
+    keep-typ: true
+course: "Kursledarutbildning Steg 1"
+datetag: "Oktober 2025"
+footer: "West Coast Swing Umeås kursledarprogram 2025-2026"
 ---
 
 # Vad är ett ramverk?

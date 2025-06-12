@@ -4,9 +4,11 @@ format:
   html: 
     toc: true
     theme: cosmo
-  pdf: 
-    latex-engine: xelatex
-    documentclass: scrreprt
+  custom-pdfs-typst:
+    keep-typ: true
+course: "Kursledarutbildning Steg 1"
+datetag: "Oktober 2025"
+footer: "West Coast Swing Umeås kursledarprogram 2025-2026"
 ---
 
 
@@ -32,7 +34,7 @@ Målet med en nybörjarkurs är att eleverna ska ha roligt, och vilja fortsätta
 
 Följande turer passar att lära ut på en Nybörjarkurs. Beroende på antal gånger, samt hur gruppen är, kan detta behöva justeras något.
 
-| Left side      | Middle       | Right side |
+| **Left side**      | **Middle**       | **Right side** |
 |----------------|--------------|------------|
 | Left side pass | Sugar push   | Under arm  |
 | Left side turn | Sugar tuck   | Whip       |
