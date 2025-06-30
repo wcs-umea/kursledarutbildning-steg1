@@ -10,7 +10,7 @@ format:
 
 ## Musik
 
-- Tempo
+- Tempo2
 - Taktfast
 
 ## Övning
