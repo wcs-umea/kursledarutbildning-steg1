@@ -5,7 +5,7 @@ format:
     revealjs:
         theme: [default, custom.scss]
         title-slide: false
-        logo: ../img/wcsumea-logo-black.png
+        logo: ../img/wcsumea-logo-black.svg
         footer: "Kursledarprogram WCS 2025-2026"
         
 ---
@@ -15,7 +15,7 @@ format:
 <br>
 
 ::: {#logo}
-![](../img/wcsumea-logo.png){width=25%}
+![](../img/wcsumea-logo-black.svg){width=25%}
 :::
 
 <br>
