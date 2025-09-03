@@ -25,24 +25,51 @@ Kursledarprogram WCS 2025
 
 ## Hur lär man sig?
 
-7 pedagogiska principer
+Pedaogogiska principer som ramverk för kursupplägg
 
 ## Ramverk
 
-Direkt tillämpbart för undervisning
+Konkret struktur, liten eller stor, som kan användas under kurser/kurstillfällen
+
+# Olika ramverk
 
 ## Upplägg av kurstillfällen
 
-Pedagogisk princip: 
+- Repetition av föregående tillfälle
+- Tekniskt koncept
+- Tur som kräver det tekniska konceptet
+
+::: {.fragment}
+Exempel:  
+
+- Repetera föregående tillfälles tur: Left side pass
+- Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
+- Tur som kräver det tekniska konceptet: Left side turn
+:::
+
+### Pedagogisk princip
+
+- Repetition krävs för lärande
+- Fokus på en sak i taget vid inlärning av nytt koncept
+- Integrering av ny kunskap i gammal befäster den
+- Genomgående repetition och feedback stödjer lärande
+
 
 ## Visa, Pröva, Instruera, Öva
 
-Pedagogisk princip:
+Bra vid utlärning av turer. Använder flera sinnen, visuellt, auditioriellt (räkna och säg vad ni gör), kinestetiskt?
 
 ## Frågor och feedback
 
-Pedagogisk princip: 
+Uppmuntra till frågor. Förklara varför något är på ett specifikt sätt. Deltagare lär sig av att fråga
 
+## Rotation och placering
+
+High fives för tillhörighet. Förare eller följare kan rotera, det spelar ingen roll även vid ojämnt antal
+
+## Lärarlett eller ej
+
+Börja med lärarlett, fortsätt med räkning och avsluta med att deltagarna själva får starta och välja turer
 
 ## Att inkludera
 

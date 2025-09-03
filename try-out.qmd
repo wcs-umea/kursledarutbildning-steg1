@@ -39,7 +39,7 @@ Förklara att inom WCS har vi inte ett enda grundsteg, som i till exempel bugg, 
 
 ### Connection / förning
 
-Välj en väldigt förenklad variant av connection och förning. Visa handfattning som en "tvåfingerkrok" där man försöker få connection närmare handflatan. Förning sker genom att ha avslappnade armar och föraren tar ett steg bakåt.
+Välj en väldigt förenklad variant av connection och förning. Visa handfattning som en "tvåfingerkrok" där man försöker få connection närmare handflatan. Förning sker genom att ha avslappnade armar och föraren tar ett steg bakåt. Låt deltagarna testa att starta ett par gånger tillsammans, kom ihåg att rotera så alla får prova.
 
 ::: {.callout-warning icon=false}
 
@@ -49,3 +49,38 @@ Allt ovan bör inte ta mer än 10-15 minuter.
 
 :::
 
+
+### Turer
+
+Följande upplägg kan ni använda för de turer ni lär ut. Kom ihåg att hålla det enkelt och inte ge lika många detaljer som en vanlig kurs. Syftet är att de ska prova på, inte kunna turerna perfekta. Demonstrera att WCS är en slotten dance som är stationär, där vi dansar på en linje. Det är lätt att deltagarna börjar röra sig cirkulärt och runt i rummet annars.
+
+- Börja med att demonstrera turen från båda hållen
+- Låt deltagarna testa turen, se till att rotera ett par gånger. Målet här är att följaren ska ta sig från startpositionen till slutpositionen
+- När alla fått testa på med en partner kan ni ge några fler detaljer:
+  - Börja alltid med tvåfingerkroken och att backa ut i connection
+  - Föraren går rakt bakåt på 1an, och kliver sedan ur spår
+  - Följaren är huvudsakligen ansvarig för att gå till ändläget och bygga upp stretch
+- Låt deltagarna testa, både med er som räknar turen, och till slut med musik
+- Se till att deltagarna får många möjligheter att testa till musik
+
+#### Left side pass (~10-15 min)
+
+- Viktigt här är att föraren kliver ur följarens slot
+- Ett vanligt problem är att både föraren och följaren spänner armarna för mycket, och då inte kan passera varandra på en rak linje
+
+### Under arm (~10 min)
+
+- Ge liknelsen med att föraren kollar på klockan, det skapar en öppning som följaren kan passera genom
+- Även här brukar spända armar göra att följarna backar tillbaka ut, istället för att passera
+
+### Sugar push (~10 min)
+
+- Introducera compression genom liknelser. Exempelvis: fånga ett ägg och kasta tillbaka (rörelsen måste saktas in för att inte knäcka ägget)
+
+### Variation på Under arm (~5 min)
+
+Beroende på tid och grupp kan ni lägga in en variation på slutet. Berätta att WCS är en dans där följaren kan influera mycket. Här kan följaren lägga in en förlängning på 3&4 i Under arm. Visa en eller två olika varianter som följaren kan testa. Följaren visar detta genom att öka connection innan 3. Föraren väntar på följaren tills hen är färdig.
+
+### Fri dans (~5-10 min)
+
+Sista minuterna bör ni låta deltagarna dansa fritt och rotera ofta, för att avsluta med mycket dans.

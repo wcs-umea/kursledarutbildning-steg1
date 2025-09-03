@@ -25,11 +25,13 @@ Målet med en nybörjarkurs är att eleverna ska ha roligt, och vilja fortsätta
 
 ## Lärandemål
 
-- Dansa grundturerna
+Efter avslutad kurs ska deltagarna:
+
+- Kunna utföra grundturerna i WCS
 - Starta på en downbeat
-- Grundläggande frame
-- Stretch
-- Leka till musiken
+- Visa grundläggande frame
+- Utföra grundläggande stretch och compression
+- Våga leka till musiken
 
 ## Turer
 
@@ -67,6 +69,9 @@ Se till att läsa de pedagogiska ramverken som medföljer denna kursplanering, d
 
 ### Tillfälle 1
 
+**Fokus teknik:** trippelsteg  
+**Fokus turer:** Under arm och Left side pass
+
 #### Introduktion (~5 min)
 
 Börja alltid med att introducera er själva och hälsa alla välkomna. Praktisk information såsom nödutgångar, eventuella avbrott i kursen, etc, tas upp innan ni kör igång och dansar. Fråga gärna vilka som testat West Coast Swing tidigare, och berätta kort att dansen har sitt ursprung i Lindy Hop.
@@ -75,7 +80,7 @@ Börja alltid med att introducera er själva och hälsa alla välkomna. Praktisk
 
 Starta med att berätta att WCS inte har ett grundsteg på samma sätt som t ex. salsa eller bugg, utan att vi snarare använder ett par olika grundturer, eller en grundrytm när vi dansar.
 
-- **Gå gå trippelsteg:** Ställ deltagarna i en cirkel med ansiktet in mot mitten. Förarna börjar på vänster, och följarna på höger. En i lärarparet demonstrerar förarstegen och den andra följarstegen. Låt deltagarna stå själva och gå på stället och följa rytmen som ni demonstrerar. Välj en långsam låt med väldigt tydlig rytm för att träna till musik, ungefär 70-80 bpm första gången. Nästa steg är att låta deltagarna röra sig runt i rummet i samma rytm, både framåt och bakåt.
+- **Gå gå trippelsteg:** Ställ deltagarna i en cirkel med ansiktet in mot mitten. Förarna börjar på vänster, och följarna på höger. En i lärarparet demonstrerar förarstegen och den andra följarstegen. Låt deltagarna stå själva och gå på stället och följa rytmen som ni demonstrerar. Välj en långsam låt med väldigt tydlig rytm för att träna till musik, ungefär 70-80 bpm första gången. Nästa steg är att låta deltagarna röra sig runt i rummet i samma rytm, både framåt och bakåt. (Royston method?)
 
 - **Handfattning och kroppsförning:** När alla fått in grundrytmen är det dags för deltagarna att hitta en partner och testa tillsammans. Förklara för deltagarna att i WCS kommer förningen från att föraren och följaren är i stretch (ytterläge) och när föraren rör sig bakåt kommer följaren att följa med, inget extra drag behövs. Demonstrera "tvåfingerkroken" där föraren lägger fram händerna, och följaren lägger händerna ovanpå. Målet är att få kroken så nära in i knogleden som möjligt. När de fattat varandras händer så instruera dem att slappna av i armarna, samtidigt som de håller axlarna på plats (detta för att skydda axlarna), och backa med små korta steg tills de börjar känna connection. Härifrån tar föraren ett steg bakåt, vilket får följaren att följa med. Se till att göra high five och rotera följarna så alla får prova. Det här är grundförningen som vi kommer använda i grundkursen. Allt detta bör förklaras så förenklat som möjligt, och inte ta mer än 5 minuter, då det kommer repeteras kommande tillfällen.
 
@@ -118,6 +123,9 @@ Upplägget i efterföljande tillfällen är detsamma som ovan, men i texten komm
 
 ### Tillfälle 2
 
+**Fokus teknik:** Stretch och compression  
+**Fokus turer:** Sugar push
+
 #### Repetition (~25 min)
 Börja med att fråga om det var några som missade förra tillfället. Om så, ge lite extra stöd till dessa under repetitionen. Repetitionen ska i princip gå igenom samma saker som under förra lektionen, men under kortare tid.
 
@@ -126,7 +134,7 @@ Börja med att fråga om det var några som missade förra tillfället. Om så, 
 - Repetera Left side pass
 - Repetera Under arm
 
-#### Musikalitet i Under arm (~15 min)
+#### Musikalitet i Under arm (~10 min)
 Förklara att WCS är en dans där vi använder mycket musikalitet och kommunikation mellan förare och följare. De kommer få lära sig en enkel variation som följaren kan ta initiativ till.
 
 - Följaren indikerar redan på 2& att hon vill göra något, genom att ge lite mer connection
@@ -135,12 +143,23 @@ Förklara att WCS är en dans där vi använder mycket musikalitet och kommunika
 - Följaren ansvarar för att avsluta turen korrekt
 - Se till att rotera ofta och spela olika typer av musik så de får testa
 
-#### Sugar push (~20 min)
-Börja med kort stretch-compression övning där föraren och följaren står mot varandra, och växlar mellan stretch och compression genom att endast flytta vikten.
+#### Övning: Pass the follower (~10 min)
+I denna övning får följarna träna på att fortsätta sitt momentum, medans förarna får träna på att dirigera om följarens energi. Visa övningen först, dela sedan in deltagarna i mindre grupper så de kan testa själva.
+
+- Föraren ger följaren en riktning genom att försiktigt föra följarens överkropp. Observera att här dansar vi inte, och vi har ingen connection. 
+- Följaren börjar gå i den riktning hen får energin, och slutar inte gå förrän hen blir omdirigerad. Ibland kan det innebära att följaren gå in i någon, eller går in i en vägg, då måste föraren hämta upp hen och börja om. 
+- Det är förarens uppgift att omdirigera följaren. Är ni flera i en grupp så kan den som står i följarens väg omdirigera. 
+
+Följaren får här lära sig att gå tills det tar stopp, och inte stanna själva, och föraren får lära sig att de måste omdirigera följarens energi (föra).
+
+Efter övningen, låt deltagarna testa Under arm och Left side pass.
+
+
+#### Sugar push (~15 min)
 
 - Demonstrera en Sugar push och låt deltagarna testa. 
 - Ge en mer detaljerad instruktion till turen.
-  - Compression: följaren går till ändläget, och väntar där på att föraren för tillbaka hen
+  - Compression: följaren fortsätter rörelsen framåt, tills föraren fångar upp rörelsen och för tillbaka hen
   - Föraren absorberar normalt mest av compressionen, men följaren kan också absorbera om nödvändigt
   - Viktigt att föraren inte pushar ut följaren med armarna, utan använder kroppen för att föra ut från compressionen
 - Låt deltagarna träna på turen, och lägg även in de andra turerna de redan kan 
@@ -148,8 +167,27 @@ Börja med kort stretch-compression övning där föraren och följaren står mo
 
 ### Tillfälle 3
 
+**Fokus teknik:** Enkel snurrteknik 
+**Fokus turer:** Left side turn
+
+#### Uppvärmning (~5 min)
+Lägg in en kort solouppvärmning till musik, där ni dansar:
+
+- Gå gå steg 
+- Tap steg
+- Trippelsteg
+
+Lägg även in några nya steg, några förslag:
+
+- Slides
+- Grapevines
+- Hitches
+- Shoulder rolls / Head rolls / Hip rolls
+
+Syftet är, förutom att de ska bli uppvärmda, att repetera trippelsteg och testa på lite andra stegkombinationer. Håll det enkelt dock.
+
 #### Repetition (~20 min)
-Repetition av Sugar push och musikalitet i Under arm. Var uppmärksam på de som ej var med på föregående tillfälle om de behöver extra hjälp. Lägg gärna in Left side pass och Under arm mellan turerna så att du kan se om det är något där som måste repeteras.
+Repetition av Sugar push och musikalitet i Under arm, samt övningen från förra gången. Var uppmärksam på de som ej var med på föregående tillfälle om de behöver extra hjälp. Lägg gärna in Left side pass och Under arm mellan turerna så att du kan se om det är något där som måste repeteras.
 
 #### Snurrteknik (~10 min)
 Då nästa tur är Left side turn så bör kursledarna gå igenom en förenklad version av snurrteknik. 
@@ -176,6 +214,12 @@ De sista 10 minuterna kan med fördel användas för att låta deltagarna dansa 
 
 ### Tillfälle 4
 
+**Fokus teknik:** ? 
+**Fokus turer:** Sugar tuck
+
+#### Uppvärmning (~5 min)
+Använd samma uppvärmning som tillfälle 3. Lägg gärna in en grapevine med snurr eller liknande så de får repetera snurrar. Lägg gärna in en enkel stegkombination som följarna kan använda för att styla Sugar tucken som lärs ut vid detta tillfälle.
+
 #### Repetition (~20 min)
 Kort repetition av Sugar push + repetition av snurrteknik och Left side turn.
 
@@ -190,8 +234,8 @@ Ge en mer detaljerad instruktion till turen:
 - Efter turen kommer handfattningen att vara "upp och ned", fråga deltagarna vilken tur de kan använda för att fixa till detta (Under arm)
 - Låt deltagarna variera mellan vanlig Sugar push och Sugar tuck, för att tydliggöra att känslan och stegen är väldigt lika
 
-#### Följarstyling i Sugar tuck (~20 min)
-Detta är också en styling som följare kan ta initiati till och förlänga en tur.
+#### Följarstyling i Sugar tuck (~15 min)
+Detta är också en styling som följare kan ta initiativ till och förlänga en tur.
 
 - För att tydliggöra att följaren vill göra något, instruera dem att lägga vänsterhanden på förarens vänsterhand på &4, för att visa att de vill ha utrymme
 - Visa en enkel förlängning av turen för följare (t ex. lägg till 2 gåsteg)
@@ -199,10 +243,16 @@ Detta är också en styling som följare kan ta initiati till och förlänga en 
 
 ### Tillfälle 5
 
+**Fokus teknik:** Connection i sluten position 
+**Fokus turer:** Starter step
+
+#### Uppvärmning (~5 min)
+Vid det här tillfället kan ni låta deltagarna testa att dansa lite själva för att värma upp, då de nu förhoppningsvis kommer ihåg några turer de kan använda.
+
 #### Repetition (~20 min)
 Kort repetition av Sugar push och Sugar tuck tillsammans, för att demonstrera på likheterna och skillnaderna däremellan. Repetera följarvariationen från 4an, lägg gärna in en annan enkel variation de kan göra.
 
-#### Connectionövning (~15 min)
+#### Connectionövning (~10 min)
 
 Nu när deltagarna har provat på några turer, passar det att lägga in en teknikövning med mer fokus på connection. Både hand i hand och connection bak i ryggen. Viktiga detaljer att ta upp:
 
@@ -229,13 +279,19 @@ Då starter step utan en utgång blir lite tråkig att träna på, lägg till en
 
 ### Tillfälle 6
 
+**Fokus teknik:** Stretch och compression 
+**Fokus turer:** Whip
+
+#### Uppvärmning (~5 min)
+Fri dans för deltagarna.
+
 #### Repetition (~20 min)
 Kort repetition av Starter step och connection.
 
 #### Stretch och compression (~15 min)
 Ge en mer detaljerad beskrivning av stretch och compression och hur det används i WCS. Låt deltagarna öva på att alltid gå till ändlägena och vänta på förning. Bra övningar:
 
-- Endast gå, ej dans: Följarna går tills de får en redirect
+- Pass the follower, från tillfälle 2
 - Dansövning: Förarna lägger in gå-gå steg mellan turerna, så att följarna måste vänta på förning. Lägg in gå-gå steg i compressionen i Sugar push 
 
 #### Whip (~25 min)
@@ -253,10 +309,16 @@ Introducera deras första 8-taktstur genom att demonstrera rytmen och låta dem 
 
 ### Tillfälle 7
 
+**Fokus teknik:** ? 
+**Fokus turer:** Handbyten och Freespin
+
+#### Uppvärmning (~5 min)
+Fri dans för deltagarna.
+
 #### Repetition (~25 min)
 Repetition av Whip och connection. Ta gärna lite extra tid att repetera detta, då Whipen är ganska svår att få in, och deltagarna ofta har många frågor.
 
-#### Handbyten och grundturer i olika handfattningar (~20 min)
+#### Handbyten och grundturer i olika handfattningar (~15 min)
 Då deltagarna redan kan en hel del grundturer vid det här laget, passar det här att lägga in handbyten. Visa några enkla handbyten, till exempel i Under arm (höger i höger), Left side pass (höger i höger), och Sugar push (höger i vänster). Låt deltagarna själva testa på grundturerna i olika handfattningar först, för att sedan gå igenom om de har några tankar kring hur väl de olika turerna fungerar i olika handfattningar.
 
 #### Freespin (~15 min)
@@ -271,7 +333,7 @@ Många gånger är Freespin höger i vänster lättare att göra för deltagarna
 
 - Repetition av turer, antingen alla turer individuellt eller genom en slinga
 
-### Slinga av alla turer
+#### Slinga av alla turer
 
 Nedan följer en variant av en slinga på 2x32 slag, som kan varieras utefter behov. Då de aldrig kommer att komma ihåg hela slingan är det viktigt att ni som kursledare hela tiden ropar ut vilken tur som kommer härnäst.
 
