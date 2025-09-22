@@ -31,6 +31,43 @@ Pedaogogiska principer som ramverk för kursupplägg
 
 Konkret struktur, liten eller stor, som kan användas under kurser/kurstillfällen
 
+## Vad är lärande?
+
+Lärande kan beskrivas som en process som leder till förändring, vilket sker som ett resultat av erfarenhet.
+
+3 viktiga delar:
+
+- Lärande är en process, inte en produkt
+- Lärande involverar en förändring i kunskap, övertygelser, beteenden och/eller attityder
+- Lärande är inte något som görs på studenter, snarare något som studenter gör själva
+
+## Hur fungerar lärande?
+
+Det korta svaret:  
+Ingen vet exakt hur det fungerar
+
+Flera olika modeller:
+
+![](img/how-learning-works.png){width=20%} ![](img/how-we-learn.png){width=20%}
+
+## Understanding how we learn
+
+![](img/how-we-learn-table.png)
+
+## How learning works: 7 principer för lärande
+
+1. Elevens tidigare kunskaper kan hjälpa eller hindra lärande
+2. Hur eleven organiserar sin kunskap påverkar hur de lär sig och tillämpar vad de lärt sig
+3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+4. För att utveckla sakkunskap måste eleven skaffa sig komponentskicklighet, träna på att integrera dem och veta när de ska tillämpa det de lärt sig
+
+## How learning works: 7 principer för lärande
+
+5. Målstyrd träning kombinerad med riktad feedback ökar kvalitéen på elevens lärande
+6. Elevens nuvarande utvecklingsnivå interagerar med det sociala, känslomässiga och intellektuella klimatet på kursen, och påverkar därmed lärandet
+7. För att bli självstyrande i sitt lärande måste eleven lära sig att övervaka och anpassa sitt sätt att lära 
+
+
 # Olika ramverk
 
 ## Upplägg av kurstillfällen
