@@ -62,7 +62,7 @@ Programmet innehåller en blandning av teori och praktik, och täcker:
 | 28 jan    | 19.00 - 20.00 | Online: Din roll som ledare och förebild |
 | 2 mar     | 19.00 - 20.00 | Online: Din utveckling som kursledare |
 | 7 - 8 mar | 11.00 - 17.00 | Umeå: Utbildning Steg 2 |
-| 27 april  | 19.00 - 20.00 | Online: Wrap-up av programmet |
+| 27 april  | 19.00 - 20.00 | Online: Wrap-up |
 : {tbl-colwidths="[25,30,45]"} 
 
 
@@ -120,9 +120,9 @@ Vi kommer att presentera **ett sätt som vi tycker fungerar bra**, det är upp t
 |---------------|------|
 | 11:00 - 11:15 | Introduktion till dagen |
 | 11:15 - 11:45 | Teori: Turer och Tekniker |
-| 11:45 - 13:00 | Genomgång: Turer och vanliga fel
+| 11:45 - 13:00 | Genomgång: Turer |
 | 13:00 - 14:00 | LUNCH |
-| 14:00 - 16:00 | Genomgång: Turer och vanliga fel |
+| 14:00 - 16:00 | Genomgång: Turer |
 
 : {tbl-colwidths="[25,75]"} 
 
