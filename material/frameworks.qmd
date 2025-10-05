@@ -7,21 +7,19 @@ format:
         title-slide: false
         logo: ../img/wcsumea-logo-black.png
         footer: "Kursledarprogram WCS 2025-2026"
-        
 ---
 
-# Pedagogik och ramverk{background-color="#880088" footer=false}
+# Pedagogik och ramverk {background-color="#880088" footer="false"}
 
 <br>
 
 ::: {#logo}
-![](../img/wcsumea-logo.png){width=25%}
+![](../img/wcsumea-logo.png){width="25%"}
 :::
 
 <br>
 
 Kursledarprogram WCS 2025
-
 
 ## Hur lär man sig?
 
@@ -37,57 +35,68 @@ Lärande kan beskrivas som en process som leder till förändring, vilket sker s
 
 3 viktiga delar:
 
-- Lärande är en process, inte en produkt
-- Lärande involverar en förändring i kunskap, övertygelser, beteenden och/eller attityder
-- Lärande är inte något som görs på studenter, snarare något som studenter gör själva
+-   Lärande är en process, inte en produkt
+-   Lärande involverar en förändring i kunskap, övertygelser, beteenden och/eller attityder
+-   Lärande är inte något som görs på studenter, snarare något som studenter gör själva
 
 ## Hur fungerar lärande?
 
-Det korta svaret:  
-Ingen vet exakt hur det fungerar
+Det korta svaret: Ingen vet exakt hur det fungerar
 
 Flera olika modeller:
 
-![](img/how-learning-works.png){width=20%} ![](img/how-we-learn.png){width=20%}
+![](img/how-learning-works.png){width="20%"} ![](img/how-we-learn.png){width="20%"}
 
 ## Understanding how we learn
 
 ![](img/how-we-learn-table.png)
 
 ## Understanding how we learn
+
 <br>
 
 #### Konkreta exempel
+
 Följarinitierad styling: Ge ett exempel där ni visar följaren som initierar styling
 
 ## Understanding how we learn
+
 <br>
 
 #### Dubbel kodning
+
 Visa ankarsteget samtidigt som ni ljudar "ank-ar-steg"
 
 ## Understanding how we learn
+
 <br>
 
 #### Utveckla
+
 Varför gör vi en fördröjd viktförflyttning? Den hjälper oss bibehålla connection
 
 ## Understanding how we learn
+
 <br>
 
 #### Omlott
+
 Växla mellan 2 saker
 
 ## Understanding how we learn
+
 <br>
 
 #### Informationshämtning
+
 Be deltagarna demonstrera en whip
 
 ## Understanding how we learn
+
 <br>
 
 #### Övning över tid
+
 Repetera turer och principer under flera lektioner
 
 ## How learning works: 7 principer för lärande
@@ -96,87 +105,181 @@ Repetera turer och principer under flera lektioner
 
 <br>
 
-## How learning works: 7 principer för lärande
-#### 1. Elevens tidigare kunskaper kan hjälpa eller hindra lärande
-Elever lär sig bättre när de kan koppla den nya kunskapen till kunskap de redan har.
+---
 
-Krävs att kunskapen de har är korrekt.
+### 1. Deltagarens tidigare kunskaper kan hjälpa eller hindra lärande
 
-Exempel: Om en deltagare kan whip och free spin kan den kunskapen användas för att förklara en reversed whip.
+<br>
 
-## How learning works: 7 principer för lärande
-#### 2. Hur eleven organiserar sin kunskap påverkar hur de lär sig och tillämpar vad de lärt sig
-Kunskap kan organiseras utefter flera olika grupperingar. Deltagare som har en bra struktur för att organisera sin kunskap lär sig bättre.
+* Elever lär sig bättre när de kan koppla den nya kunskapen till kunskap de redan har.
 
-Exempel: Organisera turer i pushes, passes och whips. Eller beroende på sida följaren passerar.
+* Krävs att kunskapen de har är korrekt.
 
-## How learning works: 7 principer för lärande
-#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+* Exempel: Om en deltagare kan whip och free spin kan den kunskapen användas för att förklara en reversed whip.
 
-Om en deltagare inte finner en kurs intressant eller relevant, ser de inget värde i att behärska innehållet. 
+---
 
-2 centrala koncept för att förstå motivation:
-1. Det subjektiva värdet av målet
+### 2. Hur deltagaren organiserar sin kunskap påverkar hur de lär sig och tillämpar vad de lärt sig
+
+<br>
+
+* Kunskap kan organiseras utefter flera olika grupperingar. Deltagare som har en bra struktur för att organisera sin kunskap lär sig bättre.
+
+* Exempel: Organisera turer i pushes, passes och whips. Eller beroende på sida följaren passerar.
+
+---
+
+### 3. Deltagarens motivation påverkar vad de gör för att lära sig
+
+<br>
+
+Om en deltagare inte finner en kurs intressant eller relevant, ser de inget värde i att behärska innehållet.
+
+<br>
+
+2 centrala koncept för att förstå motivation: 
+
+1. Det subjektiva värdet av målet 
 2. Förväntningarna på att de ska uppnå målet
 
-## How learning works: 7 principer för lärande
-#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+---
+
+### 3. Deltagarens motivation påverkar vad de gör för att lära sig
+
+<br>
 
 Deltagarens mål behöver inte alltid vara samma som lärarens mål för deltagaren!
 
-Olika typer av mål:
-1. Prestationsbaserade mål (klara 5 one-foot spins)
-2. Lärande mål (Lära sig förstå materialet)
-3. Känslomässiga mål (Göra en rolig aktivitet)
+1. Prestationsbaserade mål (klara 5 one-foot spins) 
+2. Lärande mål (Lära sig förstå materialet) 
+3. Känslomässiga mål (Göra en rolig aktivitet) 
 4. Sociala mål (träffa nya kompisar)
 
 **Ju fler mål en aktivitet adresserar desto högre motivation har deltagaren**
 
-## How learning works: 7 principer för lärande
-#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+---
 
-Ett måls subjektiva värde är vad som påverkar motivationen för att uppnå det. 
+### 3. Deltagarens motivation påverkar vad de gör för att lära sig
 
-Deltagare är motiverade av aktiviteter som har ett mål med högt subjektivt värde.
+<br>
 
-Deltagare är motiverade av mål där de tror att de har förmågan att lyckas uppnå dem.
+* Ett måls subjektiva värde är vad som påverkar motivationen för att uppnå det.
 
-Deltagarens motivation ökar om hen upplever miljön som stödjande.
+* Deltagare är motiverade av aktiviteter som har ett mål med högt subjektivt värde.
 
-Exempel: Skapa övningar som är lagomt utmanade där deltagaren har tidiga möjligheter att lyckas. Aligna innehåll med deltagarens mål. 
+* Deltagare är motiverade av mål där de tror att de har förmågan att lyckas uppnå dem.
 
-4. För att utveckla sakkunskap måste eleven skaffa sig komponentskicklighet, träna på att integrera dem och veta när de ska tillämpa det de lärt sig
+* Deltagarens motivation ökar om hen upplever miljön som stödjande.
 
-## How learning works: 7 principer för lärande
+---
 
-5. Målstyrd träning kombinerad med riktad feedback ökar kvalitéen på elevens lärande
-6. Elevens nuvarande utvecklingsnivå interagerar med det sociala, känslomässiga och intellektuella klimatet på kursen, och påverkar därmed lärandet
-7. För att bli självstyrande i sitt lärande måste eleven lära sig att övervaka och anpassa sitt sätt att lära 
+### 3. Deltagarens motivation påverkar vad de gör för att lära sig
 
+<br>
+
+Exempel: Skapa övningar som är lagomt utmanade där deltagaren har tidiga möjligheter att lyckas. Aligna innehåll med deltagarens mål.
+
+---
+
+### 4. För att utveckla kunskap måste deltagaren skaffa sig komponentskicklighet och träna på att integrera dem
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+* Expert blind spot kan göra det svårare för experten att förstå de olika färdigheter som behövs för en komplex uppgift
+
+* För att lära ut komplexa färdigheter måste man kunna “packa upp” de individuella delarna
+:::
+
+::: {.column width="50%"}
+![](img/4_expert_blindspot.png)
+:::
+:::::
+
+---
+
+### 4. För att utveckla kunskap måste deltagaren skaffa sig komponentskicklighet och träna på att integrera dem
+
+<br>
+
+* Om uppgiften är komplex lär sig eleven bättre genom att dela upp uppgiften i dess komponenter, för att sedan sätta dem samman igen
+
+* Hjälper att reducera den kognitiva belastningen
+
+* Överföra kunskapen till nya situationer
+
+Exempel: Träna snurrteknik separat från en left side turn 
+
+---
+
+### 5.  Målstyrd träning kombinerad med riktad feedback ökar kvalitén på deltagarens lärande
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+Lärande sker bäst när:
+
+* Deltagarna fokuserar på ett specifikt mål
+* Övningarna ligger på lagom utmanande nivå
+* Övningarna är av tillräcklig kvantitet och frekvens
+
+:::
+
+::: {.column width="50%"}
+![](img/5_feedback.png)
+:::
+:::::
+
+---
+
+### 5.  Målstyrd träning kombinerad med riktad feedback ökar kvalitén på deltagarens lärande
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+Feedback ges bäst:
+
+* Relativt till deras mål
+* Så tidigt som möjligt
+* Mer frekvent
+
+:::
+
+::: {.column width="50%"}
+![](img/5_feedback.png)
+:::
+:::::
+
+---
+
+6.  Elevens nuvarande utvecklingsnivå interagerar med det sociala, känslomässiga och intellektuella klimatet på kursen, och påverkar därmed lärandet
+7.  För att bli självstyrande i sitt lärande måste eleven lära sig att övervaka och anpassa sitt sätt att lära
 
 # Olika ramverk
 
 ## Upplägg av kurstillfällen
 
-- Repetition av föregående tillfälle
-- Tekniskt koncept
-- Tur som kräver det tekniska konceptet
+-   Repetition av föregående tillfälle
+-   Tekniskt koncept
+-   Tur som kräver det tekniska konceptet
 
-::: {.fragment}
-Exempel:  
+::: fragment
+Exempel:
 
-- Repetera föregående tillfälles tur: Left side pass
-- Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
-- Tur som kräver det tekniska konceptet: Left side turn
+-   Repetera föregående tillfälles tur: Left side pass
+-   Tekniskt koncept: snurrteknik (prep, spotting, korta steg)
+-   Tur som kräver det tekniska konceptet: Left side turn
 :::
 
 ### Pedagogisk princip
 
-- Repetition krävs för lärande
-- Fokus på en sak i taget vid inlärning av nytt koncept
-- Integrering av ny kunskap i gammal befäster den
-- Genomgående repetition och feedback stödjer lärande
-
+-   Repetition krävs för lärande
+-   Fokus på en sak i taget vid inlärning av nytt koncept
+-   Integrering av ny kunskap i gammal befäster den
+-   Genomgående repetition och feedback stödjer lärande
 
 ## Visa, Pröva, Instruera, Öva
 
@@ -196,8 +299,8 @@ Börja med lärarlett, fortsätt med räkning och avsluta med att deltagarna sj�
 
 ## Att inkludera
 
-- Hur fungerar lärande?
-- VPIÖ
-- Upplägg av kurstillfälle
-- Rotationer och placeringar
-- 
+-   Hur fungerar lärande?
+-   VPIÖ
+-   Upplägg av kurstillfälle
+-   Rotationer och placeringar
+-

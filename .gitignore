@@ -1,2 +1,6 @@
 /.quarto/
 material/*.pdf
+
+**/*.quarto_ipynb
+
+/.luarc.json
