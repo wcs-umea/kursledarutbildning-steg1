@@ -54,11 +54,97 @@ Flera olika modeller:
 
 ![](img/how-we-learn-table.png)
 
+## Understanding how we learn
+<br>
+
+#### Konkreta exempel
+Följarinitierad styling: Ge ett exempel där ni visar följaren som initierar styling
+
+## Understanding how we learn
+<br>
+
+#### Dubbel kodning
+Visa ankarsteget samtidigt som ni ljudar "ank-ar-steg"
+
+## Understanding how we learn
+<br>
+
+#### Utveckla
+Varför gör vi en fördröjd viktförflyttning? Den hjälper oss bibehålla connection
+
+## Understanding how we learn
+<br>
+
+#### Omlott
+Växla mellan 2 saker
+
+## Understanding how we learn
+<br>
+
+#### Informationshämtning
+Be deltagarna demonstrera en whip
+
+## Understanding how we learn
+<br>
+
+#### Övning över tid
+Repetera turer och principer under flera lektioner
+
 ## How learning works: 7 principer för lärande
 
-1. Elevens tidigare kunskaper kan hjälpa eller hindra lärande
-2. Hur eleven organiserar sin kunskap påverkar hur de lär sig och tillämpar vad de lärt sig
-3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+![](img/how-learning-works.png)
+
+<br>
+
+## How learning works: 7 principer för lärande
+#### 1. Elevens tidigare kunskaper kan hjälpa eller hindra lärande
+Elever lär sig bättre när de kan koppla den nya kunskapen till kunskap de redan har.
+
+Krävs att kunskapen de har är korrekt.
+
+Exempel: Om en deltagare kan whip och free spin kan den kunskapen användas för att förklara en reversed whip.
+
+## How learning works: 7 principer för lärande
+#### 2. Hur eleven organiserar sin kunskap påverkar hur de lär sig och tillämpar vad de lärt sig
+Kunskap kan organiseras utefter flera olika grupperingar. Deltagare som har en bra struktur för att organisera sin kunskap lär sig bättre.
+
+Exempel: Organisera turer i pushes, passes och whips. Eller beroende på sida följaren passerar.
+
+## How learning works: 7 principer för lärande
+#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+
+Om en deltagare inte finner en kurs intressant eller relevant, ser de inget värde i att behärska innehållet. 
+
+2 centrala koncept för att förstå motivation:
+1. Det subjektiva värdet av målet
+2. Förväntningarna på att de ska uppnå målet
+
+## How learning works: 7 principer för lärande
+#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+
+Deltagarens mål behöver inte alltid vara samma som lärarens mål för deltagaren!
+
+Olika typer av mål:
+1. Prestationsbaserade mål (klara 5 one-foot spins)
+2. Lärande mål (Lära sig förstå materialet)
+3. Känslomässiga mål (Göra en rolig aktivitet)
+4. Sociala mål (träffa nya kompisar)
+
+**Ju fler mål en aktivitet adresserar desto högre motivation har deltagaren**
+
+## How learning works: 7 principer för lärande
+#### 3. Elevens motivation bestämmer, fokuserar och bibehåller vad de gör för att lära sig
+
+Ett måls subjektiva värde är vad som påverkar motivationen för att uppnå det. 
+
+Deltagare är motiverade av aktiviteter som har ett mål med högt subjektivt värde.
+
+Deltagare är motiverade av mål där de tror att de har förmågan att lyckas uppnå dem.
+
+Deltagarens motivation ökar om hen upplever miljön som stödjande.
+
+Exempel: Skapa övningar som är lagomt utmanade där deltagaren har tidiga möjligheter att lyckas. Aligna innehåll med deltagarens mål. 
+
 4. För att utveckla sakkunskap måste eleven skaffa sig komponentskicklighet, träna på att integrera dem och veta när de ska tillämpa det de lärt sig
 
 ## How learning works: 7 principer för lärande
