@@ -476,7 +476,6 @@ Exempel:
 <br>
 
 
-
 ## Rotation och placering
 
 High fives för tillhörighet. Förare eller följare kan rotera, det spelar ingen roll även vid ojämnt antal
