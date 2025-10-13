@@ -338,6 +338,42 @@ Hur kan deltagarna lära sig att lära sig?
 
 # Olika ramverk
 
+## Visa, Pröva, Instruera, Öva
+
+* Visuellt, auditivt, kinestetiskt lärande
+* Stegvis övning av turer
+
+::: fragment
+
+Exempel:
+
+* **Visa** en Sugar tuck
+* Låt deltagarna **Pröva** en Sugar tuck
+* **Instruera** mer i detalj
+* Låt deltagarna **Öva** Sugar push
+
+:::
+
+## Visa, Pröva, Instruera, Öva
+#### *Pedagogisk princip*
+<br>
+
+1\. **Deltagarens tidigare erfarenheter påverkar nytt lärande**  
+Du visar en Sugar push där deltagaren känner igen strukturen från en Sugar push och kan använda erfarenheten därifrån
+
+<br>
+
+2\. **Hur kunskap hänger ihop spelar roll**  
+Du visar en tur som deltagaren kan kategorisera och koppla till befintlig kunskap
+
+## Visa, Pröva, Instruera, Öva
+#### *Pedagogisk princip*
+<br>
+
+5\. **Träning med tydliga mål och bra feedback ger bäst resultat**  
+Deltagarna får omedelbar feedback när de provar. Ta sig från en sida till nästa, rotera i rätt riktning, osv.
+
+
 ## Upplägg av kurstillfällen
 
 -   Repetition av föregående tillfälle
@@ -377,40 +413,7 @@ Snurrteknik tränas sakkunskap, för att sedan integreras i en tur
 Genom återkommande struktur kan deltagarna börja se mönster och förstå sin egen inlärningsprocess
 
 
-## Visa, Pröva, Instruera, Öva
 
-* Visuellt, auditivt, kinestetiskt lärande
-* Stegvis övning av turer
-
-::: fragment
-
-Exempel:
-
-* **Visa** en Sugar tuck
-* Låt deltagarna **Pröva** en Sugar tuck
-* **Instruera** mer i detalj
-* Låt deltagarna **Öva** Sugar push
-
-:::
-
-## Visa, Pröva, Instruera, Öva
-#### *Pedagogisk princip*
-<br>
-
-1\. **Deltagarens tidigare erfarenheter påverkar nytt lärande**  
-Du visar en Sugar push där deltagaren känner igen strukturen från en Sugar push och kan använda erfarenheten därifrån
-
-<br>
-
-2\. **Hur kunskap hänger ihop spelar roll**  
-Du visar en tur som deltagaren kan kategorisera och koppla till befintlig kunskap
-
-## Visa, Pröva, Instruera, Öva
-#### *Pedagogisk princip*
-<br>
-
-5\. **Träning med tydliga mål och bra feedback ger bäst resultat**  
-Deltagarna får omedelbar feedback när de provar. Ta sig från en sida till nästa, rotera i rätt riktning, osv.
 
 ## Frågor och feedback
 
@@ -455,6 +458,13 @@ Att det är tillåtet att fråga och diskutera signalerar trygghet
 När deltagarna ställer frågor och får resonera, utvecklar de förmågan att övervaka och styra sitt eget lärande
 
 
+## Rotation och placering
+
+High fives för tillhörighet. Förare eller följare kan rotera, det spelar ingen roll även vid ojämnt antal
+
+## Räkning och taktning
+
+
 ## Lärarlett eller ej
 
 * Börja med lärarlett
@@ -471,19 +481,7 @@ Exempel:
 
 :::
 
+
 ## Lärarlett eller ej
 #### *Pedagogisk princip*
 <br>
-
-
-## Rotation och placering
-
-High fives för tillhörighet. Förare eller följare kan rotera, det spelar ingen roll även vid ojämnt antal
-
-## Att inkludera
-
--   Hur fungerar lärande?
--   VPIÖ
--   Upplägg av kurstillfälle
--   Rotationer och placeringar
--
