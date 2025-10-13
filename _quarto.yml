@@ -21,7 +21,6 @@ website:
       - step1_syllabus.qmd
       - try-out.qmd
       - frameworks.qmd
-      - links.qmd
       - authors.qmd
   navbar:
     background: "#800080"

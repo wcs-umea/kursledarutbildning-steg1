@@ -10,8 +10,13 @@ Här finns allt material för programmet sparat. Materialet är skapat under CC-
 
 Följande personer har bidragit till skapandet av detta material:
 
+Huvudförfattare:
+
 - Nina Norgren
 - Chris Blöcker
+
+Personer som bidragit:
+
 - Susanne Karlsson
 - Leif Carlsson
 - Joachim Sköld
@@ -19,20 +24,5 @@ Följande personer har bidragit till skapandet av detta material:
 - Andreas Espeborn
 - Jens Wallström
 
-#### Granskare
-
-- ?
 
 Materialet har delvis utvecklats med stöd av Svenska Danssportförbundet.
-
-## Attribution
-
-Vid användade av materialet, inkludera följande (och om ändringar gjorts):
-
-:::{.callout-note icon=false}
-
-#
-
-Detta verk, ursprungligen skapat av Norgren, Blöcker, Karlsson, Carlsson, Sköld, Berglund, Espeborn och Wallström, är licensierat under CC BY-SA. Ändringar har gjorts.
-
-:::
