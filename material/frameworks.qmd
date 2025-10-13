@@ -284,7 +284,6 @@ Hur hjälper vi deltagarna på bästa sätt:
 - Sök efter fel som många gör
 - Prioritera din feedback
 - Balansera positiv och negativ feedback
-- (Låt deltagarna ge varandra feedback)
 
 ---
 
@@ -298,10 +297,7 @@ Hur trygg, välkomnad och respekterad man känner sig i gruppen påverkar hur br
 Hur bidrar vi som kursledare till ett bra klimat:
 
 - Skapa en säker miljö
-- Var försiktig med steoreotypa kommentarer 
-- Sätt grundregler för hur vi interagerar och kommunicerar med varandra
 - Använd första dagen på kursen för att sätta klimatet
-- Var beredd på känsliga frågor
 - Ta itu med ett spänt klimat så fort som möjligt
 
 ---
@@ -460,9 +456,63 @@ När deltagarna ställer frågor och får resonera, utvecklar de förmågan att 
 
 ## Rotation och placering
 
-High fives för tillhörighet. Förare eller följare kan rotera, det spelar ingen roll även vid ojämnt antal
+* Börja i samma riktning
+* High five och rotera
+* Rotera efter 1-2 försök, se till att extra följare får test
+
+::: fragment
+
+Exempel:
+
+* "Alla förare börjar med näsan mot fönstret"
+* Testa turen 2 gånger, "high five och rotera"
+* Repetera
+
+:::
+
+## Rotation och placering
+#### *Pedagogisk princip*
+<br>
+
+5\. **Träning med tydliga mål och bra feedback ger bäst resultat**  
+Lättare att se och ge feedback om alla är vända åt samma håll
+
+<br>
+
+6\. **Lärande påverkas av klimatet i gruppen**  
+Rotation och high five skapar trygghet, gemenskap och energi i gruppen. Frekventa rotationer undviker sociala spänningar.
+
+
 
 ## Räkning och taktning
+
+* Räkna in 5,6,7,8 till musiken
+* Börja på "fel fot" och förklara varför
+* Växla mellan siffror och ljudning
+* Annonsera nästkommande tur på 5&6
+
+::: fragment
+
+Exempel:
+
+* Räkna in: 5,6,7,8
+* Räkna turen: 1,2,3&4,5&6
+* Ljuda turen: gå, gå, tripp-el-steg, tripp-el-steg
+* Förbered för nästa tur: gå, gå, tripp-el-steg, sug-ar-push
+
+:::
+
+## Räkning och taktning
+#### *Pedagogisk princip*
+<br>
+
+2\. **Hur kunskap hänger ihop spelar roll**  
+Att växla mellan siffror och ord (gå gå tripp-el-steg) gör kopplingen mellan rytm, rörelse och timing tydlig
+
+<br>
+
+5\. **Träning med tydliga mål och bra feedback ger bäst resultat**  
+Deltagarna känner själva när de inte följer rytmen
 
 
 ## Lärarlett eller ej
@@ -485,3 +535,40 @@ Exempel:
 ## Lärarlett eller ej
 #### *Pedagogisk princip*
 <br>
+
+3\. **Motivation styr lärandet**  
+Att gradvis få mer frihet ökar känslan av kompetens och att kan själva, vilket stärker motivationen
+
+<br>
+
+4\. **För att utveckla kunskap måste deltagaren skaffa sig sakkunskap och träna på att integrera dem**  
+Börja med en tur, låt dem gradvis inkorporera fler och fler turer
+
+## Lärarlett eller ej
+#### *Pedagogisk princip*
+<br>
+
+5\. **Träning med tydliga mål och bra feedback ger bäst resultat**  
+Målet blir att deltagarna ska dansa själva och föra olika turer
+
+
+---
+
+## Sammanfattning
+
+::: {style="font-size: 0.5em"}
+
+| **Ramverk** | **1.<br>Tidigare erfarenheter** | **2.<br>Kunskapens struktur** | **3.<br>Motivation** | **4.<br>Sakkunskap** | **5.<br>Mål & feedback** | **6.<br>Lärandeklimat** | **7.<br>Självstyrning & reflektion** |
+|:----------------|:-------------------------------:|:---------------------------------:|:-------------------:|:-----------------------------:|:--------------------------:|:------------------------:|:-----------------------------------:|
+| **Upplägg av kurstillfällen** | ✅ | ✅ |  | ✅ |  |  | 🟡 |
+| **Visa, pröva, instruera, öva** | ✅ | ✅ |  |  | ✅ |  |  |
+| **Frågor och feedback** |  |  | ✅ |  | ✅ | ✅ | ✅ |
+| **Rotation och placering** |  |  |  |  | ✅ | ✅ |  |
+| **Räkning och takning** |  | ✅ |  |  | ✅ |  |  |
+| **Lärarledd eller fri övning** |  |  | ✅ | ✅ | ✅ |  |  |
+
+::: 
+
+::: {style="font-size: 0.5em"}
+✅ = Stark koppling  🟡 = Sekundär/indirekt koppling
+:::

@@ -1,5 +1,6 @@
 ---
 title: "Hur skapar vi säkra och inkluderande miljöer"
+
 format:
     revealjs:
         theme: [default, custom.scss]
@@ -8,14 +9,145 @@ format:
         footer: "Kursledarprogram WCS 2025-2026"
 ---
 
-## Säker miljö
+# Hur skapar vi säkra och inkluderande miljöer {background-color="#880088" footer="false"}
 
-- Din roll som kursledare
-- Inte säga att någon gör fel 
-- Positiv feedback
-- Lyssna på feedback
+<br>
 
-## Going to sleep
+::: {#logo}
+![](../img/wcsumea-logo.png){width="25%"}
+:::
 
-- Get in bed
-- Count sheep
+<br>
+
+Kursledarprogram WCS 2025
+
+## Vad menas med trygghet och inkludering?
+
+- En miljö där **alla känner sig välkomna, respekterade och delaktiga**
+- Inkludering handlar inte bara om att *inte exkludera* – utan att **aktivt skapa utrymme för alla**
+- Trygghet är grunden för lärande
+
+::: {.callout-note icon=false}
+# 💬 Reflektionsfråga
+Hur känns det när du lär dig bäst? Vad kännetecknar den miljön?
+:::
+
+
+
+## Psykologisk trygghet
+
+<br>
+
+En grupp där man vågar ta risker, ställa frågor och göra misstag utan rädsla för att bli förlöjligad
+
+
+
+## Din roll som kursledare
+
+- Du sätter tonen – **du har större påverkan på kursklimatet än du tror**
+- **Bete dig som du vill andra ska bete sig**: lyssna, vara nyfiken, visa respekt
+- Skapa **förutsägbarhet**: tydligt upplägg, regler, förväntningar
+- Visa sårbarhet: *“Jag vet inte allt”* → ger deltagarna tillåtelse att också göra misstag
+
+
+
+## Grunder för trygghet
+
+- Undvik att säga “fel” – fokusera på *vad som fungerar*  
+- Ge **konkret feedback**  
+- Normalisera misstag: *“Det är vanligt att det känns konstigt i början.”*
+- Ge **positiv feedback** när något är bra
+
+::: {.callout-tip}
+# Tips
+Använd “Jag ser…” eller “Prova att…” istället för “Du gör fel…”
+:::
+
+
+
+## Kommunikation och gruppklimat
+
+- Använd inkluderande språk – undvik könsstereotypa exempel (använd förare och följare)
+- Se till att alla får utrymme att ställa frågor
+- Fördela uppmärksamhet jämnt mellan deltagare
+- Använd *rotationer, high fives och gemensamma övningar* för att bygga trygghet
+
+
+
+## Inkludering i praktiken
+
+- Ge instruktioner både **verbalt, visuellt och genom att visa** (VPIÖ)
+- Var medveten om **kroppsspråk, beröring och personligt utrymme** när ni går runt i ringen
+- Ge deltagare möjlighet att **lämna feedback anonymt** efter kurser
+
+
+
+## Små saker spelar stor roll
+
+* Försök lära dig och använda deltagarnas namn
+* Säg “Jättebra fråga!” istället för “Vi kommer till det sen.”
+* Bekräfta känslor: “Jag hör att det känns frustrerande.”
+* Dela egna lärandemissar (“Jag brukade också blanda ihop de där turerna i början”)
+
+
+## Case studies
+
+* En deltagare skämtar på ett opassande sätt
+
+<br>
+
+<br>
+
+Vad skulle du som kursledare göra i stunden?  
+Vad kan du göra i efterhand för att förebygga?
+
+## Case studies
+
+* En deltagare skämtar på ett opassande sätt
+* En deltagare rättar andra högt inför gruppen
+
+<br>
+
+Vad skulle du som kursledare göra i stunden?  
+Vad kan du göra i efterhand för att förebygga?
+
+## Case studies
+
+* En deltagare skämtar på ett opassande sätt
+* En deltagare rättar andra högt inför gruppen
+* En deltagare försöker ta över och instruera kursen
+
+Vad skulle du som kursledare göra i stunden?  
+Vad kan du göra i efterhand för att förebygga?
+
+
+
+## Code of Conduct
+
+* Skapar **trygghet genom tydlighet**  
+
+* Sätter **förväntningar på beteende**  
+
+* Skyddar både **deltagare och ledare**  
+
+* Gör det enklare att **agera vid problem**  
+
+::: {.callout-tip icon=false}
+
+# 💬
+ *En Code of Conduct gör att du som kursledare inte behöver ta ny ställning till varje situation – det finns redan en gemensam överenskommelse.*
+:::
+
+
+
+## Exempel: Innehåll i en Code of Conduct
+
+- Vi visar respekt för varandra i språk, kropp och ton
+- Vi kan säga nej om vi vill
+- Vi ger inte oombedd feedback
+- Vi säger till kursledare om något känns obekvämt
+- Vi bidrar till en miljö där alla känner sig välkomna
+
+::: {.callout-note icon=false}
+ *Tanken är inte att kontrollera – utan att skapa förutsägbarhet och trygghet.*
+:::
