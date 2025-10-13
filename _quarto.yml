@@ -22,12 +22,14 @@ website:
       - try-out.qmd
       - frameworks.qmd
       - authors.qmd
+      - text: "Kursledarprogram"
+        href: https://wcs-umea.github.io/kursledarprogram/2025-2026/
+  #    
   navbar:
     background: "#800080"
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
   body-footer: footer.html
-  body-header: banner.html
 
 
 format:
