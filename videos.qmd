@@ -1,0 +1,94 @@
+---
+title: "Videos"
+date: today
+---
+
+## Sammanfattning av kursmaterialet
+
+Nedan följer en kort sammanfattning av de turer som ingår i en Nybörjarkurs.
+
+
+
+### Trippelsteg och Connection
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/6Z_Kh9I0IbI?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Left side pass
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/kz9sZMqjxvk?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Under arm
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/IG9-PggxGMg?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+
+### Sugar push
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/wDm_YLgLD4M?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+
+### Left side turn
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/ivZF4ZMDsCA?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Sugar tuck
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/skqPmMWSyGQ?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Starter step
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/WBWHxXd8-ow?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Whip
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/1dj81x1t9qM?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+
+### Free spin
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe src="https://www.youtube-nocookie.com/embed/JI2Mp6loizc?rel=0&modestbranding=1&playsinline=1" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        style="position: absolute; top:0; left:0; width:100%; height:100%;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
