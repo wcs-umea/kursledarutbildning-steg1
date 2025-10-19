@@ -26,7 +26,7 @@ website:
         href: https://wcs-umea.github.io/kursledarprogram/2025-2026/
   #    
   navbar:
-    background: "#800080"
+    background: "#0173b2"
     logo: "img/wcsumea-logo.png"
   favicon: "img/wcsumea-logo.png"
   body-footer: footer.html
