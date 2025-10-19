@@ -18,7 +18,8 @@ for f in material/*.qmd; do
     docker run --rm -t \
       -v "$(pwd)":/slides \
       ghcr.io/astefanutti/decktape \
-      "$html" "$pdf"
+      reveal \
+      "$html" "$pdf" --fragments
     git add "$pdf"
   else
     echo "Skipping: $html not found"
