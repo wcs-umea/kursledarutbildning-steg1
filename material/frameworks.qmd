@@ -25,7 +25,7 @@ Kursledarprogram WCS 2025
 
 Pedaogogiska principer som stöd för hur vi planerar en kurs
 
-## Verktyg
+## Ramverk
 
 En tydlig struktur, stor eller liten, som hjälper oss att planera och hålla en kurs
 
@@ -525,7 +525,7 @@ Deltagarna känner själva när de inte följer rytmen
 
 Exempel:
 
-* Kursledaren räknar in för en Under arm, samt räknar igenom hela turen
+* Kursledaren räknar in, samt räknar igenom hela turen
 * Kursledaren ger föraren alternativet mellan Under arm och Left side pass. Kursledaren räknar in och räknar, föraren bestämmer turen
 * Kursledaren räknar in, men föraren bestämmer fritt vilka turer som dansas
 

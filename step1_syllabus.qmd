@@ -50,9 +50,8 @@ Följande tekniska koncept är lämpliga att ta upp på en nybörjarkurs.
 
 |             |                 | 
 |-------------|-----------------|
-| Frame       | Håll bak axlarna, engagera ryggen. Avslappnad biceps |
-| Stretch     | Simplifierad: rulla ner långsamt på 6, release kommer från att höger (för följaren) häl lyfts från golvet |
-| Connection? |  |
+| Frame       | Håll axlarna på plats. Avslappnad biceps |
+| Stretch     | Simplifierad: se till att följarna alltid backar bakåt tills de får ett stopp |
 | Snurrteknik | Spotting, prep, korta steg |
 
 : {tbl-colwidths="[25,75]"}
