@@ -19,6 +19,7 @@ website:
       - schedule.qmd
       - course_material.qmd
       - step1_syllabus.qmd
+      - videos.qmd
       - try-out.qmd
       - frameworks.qmd
       - authors.qmd
