@@ -1,0 +1,10 @@
+---
+title: "Kursledarutbildning Steg 1"
+format:
+  custom-pdfs-typst:
+    toc: false
+    keep-typ: true
+format-links: false
+datetag: "Oktober 2025"
+footer: "West Coast Swing Umeås kursledarprogram 2025-2026"
+---
