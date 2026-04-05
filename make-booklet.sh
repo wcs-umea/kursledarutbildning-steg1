@@ -5,7 +5,7 @@ set -euo pipefail
 #for f in material/*.qmd; do
 #  base=$(basename "$f" .qmd)
 #  html="_site/material/$base.html"
-#  pdf="booklet-pdfs/$base.pdf"
+#  pdf="booklet-pdfs/presentations/$base.pdf"
 
 #  if [ -f "$html" ]; then
 #    echo "Generating PDF for $html"
@@ -44,10 +44,14 @@ pdfjam booklet-pdfs/presentations/presentations_reordered.pdf \
 
 # Build list of inputs
 INPUTS=( "_site/booklet-pdfs/cover-page.pdf" 
+         "booklet-pdfs/blank.pdf"  
          "booklet-pdfs/step1_syllabus.pdf" 
          "booklet-pdfs/try-out.pdf" 
+         "booklet-pdfs/blank.pdf"  
          "booklet-pdfs/frameworks.pdf"
+         "booklet-pdfs/blank.pdf"  
          "booklet-pdfs/presentations/presentations_final.pdf"
+         "booklet-pdfs/blank.pdf"
          )
 
 # # Use pdfunite (part of poppler) for simple concatenation
